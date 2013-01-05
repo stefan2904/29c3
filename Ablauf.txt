@@ -1,0 +1,21 @@
+12.12.26 06:35         Stefan More treffen <<<<< Nein, steigt in Spittal zu
+12.12.26 06:45         Zug Abfahrt KLU-SZG
+12.12.26 09:48         Zug Ankunft KLU-SZG
+12.12.26               O-Bus 2 zum Flughafen (Richtung Wals Walserfeld Schule, ~17 Minuten)
+12.12.26 11:30         Last-CheckIn Flughafen Salzburg
+12.12.26 12:00         Abflug SZG-HAM AB8933,O
+12.12.26 13:20         Ankunft SZG-HAM
+12.12.26 13:40         Lukas Resch treffen? <<<<< kommt der net erst spŠter?
+12.12.26               S1 zum Hauptbahnhof (24 Minuten, Richtung Wedel(Holst), 10 Minuten Takt)
+12.12.26 15:00         Earliest CheckIn Centrum Hotels Wikinger Hof
+12.12.27 11:00         29C3 Opening Event
+12.12.30 19:30         29C3 Closing Event finished
+12.12.30               Switch from 3-bed room to 2-bed room
+12.12.31 08:00         S1 nach Hamburg Airport (24 Minuten)
+12.12.31 08:55         Last-CheckIn Flughafen Hamburg
+12.12.31 09:55         Abflug HAM-SZG AB8932,P (Terminal 1)
+12.12.31 11:10         Ankunft HAM-SZG
+12.12.31 12:12         Zug Abfahrt SZG-KLU Variante 1
+12.12.31 14:12         Zug Abfahrt SZG-KLU Variante 2
+12.12.31 15:26         Zug Ankunft SZG-KLU Variante 1
+12.12.31 17:19         Zug Ankunft SZG-KLU Variante 2
