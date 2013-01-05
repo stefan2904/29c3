@@ -1,53 +1,50 @@
 TODO:
-* X und XXX durch Saal/Datum austauschen
-* Vortragende vorstellen
+* Vortragende vorstellen?
 * Kürzer?
 * Modelle?
-* Links als Wiki
+* Links im Wiki-Syntax
 * Korrekturlesen
-* Mailen
+* Mailen!
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 = Millions of Lessons Learned on Electronic Napkins  =
 == Am Weg zu freier(er) Bildung? ==
 
-In Saal X ging es am XXX um einen neuen Trend in Sachen eEducation: Massive Open Online Courses, kurz MOOC. 
+In Saal 6 ging es am Nachmittag des dritten Kongress-Tages um einen neuen Trend in Sachen eEducation: Massive Open Online Courses, kurz MOOC. 
 
-Während es bis dato in klassischen frontal-Vorlesungen schwer bis nicht möglich ist, auf individuelle Lernmethoden verschiedenster Studierender einzugehen, eröffnen Medien wie das Internet hier neue Möglichkeiten. MOOCs bedeutet aber nicht, dass eine Universität ihre (im Hörsaal abgehaltenen Vorlesungen) filmt und online stellt, wie es ja auch die TU Graz tut. 
+Während es bis dato in klassischen frontal-Vorlesungen schwer bis nicht möglich ist, auf individuelle Lernmethoden verschiedenster Studierender einzugehen, eröffnen Medien wie das <strike>Internet</strike>Web hier neue Möglichkeiten. MOOCs bedeutet aber nicht, dass eine Universität ihre (im Hörsaal abgehaltenen Vorlesungen) filmt und online stellt, wie es ja auch die TU Graz tut. 
 
-Vielmehr geht es dabei um eigens für das Internet produzierte und komplett im <strike>Internet</strike>Web abgehaltene Kurse, an denen jedeR unabhängig von einem laufenden Studium teilnehmen kann. Diese Kurse bestehen neben vielen Video-Lektionen aus Quizes und meist einem eigenen Forum. Über einen oder mehrere Tests am Ende bzw. im Laufe des Kurses kann am Ende ein Zertifikat erworben werden. 
+Vielmehr geht es dabei um eigens für das Internet produzierte und komplett im <strike>Internet</strike>Web abgehaltene Kurse, an denen jedeR unabhängig von einem laufenden Studium teilnehmen kann. Diese Kurse bestehen neben vielen meist kurzen Video-Lektionen aus Quizzes und meist einem eigenen Forum. Über einen oder mehrere Tests kann am Ende ein Zertifikat erworben werden. 
 
 Die Stanford Universität und das MIT (edX) haben bereits 2011 mit Experimenten in diese Richtung begonnen und eigene Plattformen gegründet. 2012 haben MOOCs einen regelrechten Boom widerfahren, was sich unter anderem in weiteren Plattform-Gründungen, einigen großen Investitionen und einer stark steigenden Anzahl an KursteilnehmerInnen widerspiegelt.
 
-Die Plattformen Courseria, edX & Udacity haben alleine 2012 eine Finanzierung von 100 Millionen US-Dollar erhalten. Sie verfügen zusammen über 2,5 Millionen registrierte User.
+Die Plattformen Courseria, edX und Udacity haben alleine 2012 eine Finanzierung von 100 Millionen US-Dollar erhalten. Sie verfügen zusammen über 2,5 Millionen registrierte User.
 
 === Money, Money, Money ===
 
 Ein Aspekt, der für Massen-Kurse über das Internet spricht, ist der finanzielle.
  
-Auf Seiten der Studierenden kostet ein durchschnittliches Studien-Jahr in Amerika beispielsweise zirka 20.000 US-Dollar. Studiert man in Harvard, sind es 60.000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10.000. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
+Auf Seiten der Studierenden kostet ein durchschnittliches Studien-Jahr in Amerika beispielsweise zirka 20.000 US-Dollar. Studiert man in Harvard, sind es 60.000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10.000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
 
-Seitens der Unis stellten die Frage in den Raum, ob es notwendig ist, hochqualifiziertes (und damit teures) Personal anzustellen, um dann jedes Jahr den quasi selben Stoff zu predigen. Können diese Personen diese Zeit nicht sinnvoller nutzen, zum Beispiel mit Forschung, fragten sie weiter. 
-Da diese Kosten vor allem gegenüber der Gesellschaft immer schwerer zu argumentieren sind, gäbe es hier großes Interesse an Systemen wie den MOOCs.
+Seitens der Unis wurde die Frage in den Raum gestellt, ob es notwendig ist, hochqualifiziertes (und damit teures) Personal anzustellen, um dann jedes Jahr den quasi selben Stoff zu predigen. Können diese Personen diese Zeit nicht sinnvoller nutzen, zum Beispiel mit Forschung, wurde weiter gefragt. 
+Da diese Kosten vor allem gegenüber der Gesellschaft immer schwieriger zu argumentieren sind, gäbe es hier großes Interesse an Systemen wie den MOOCs.
 
 === Erwartungen ====
 
-Traditionelle Universitäten sind mehr als 800 Jahre alt. Modernere Unis, wie zum Beispiel die Humbold Universität in Berlin, welche Forschung und Lehre unter einem Dach verbinden, entstanden immerhin vor über 200 Jahren. Nicht zuletzt deswegen sei es an der Zeit darüber nachzudenken, ob die Unis die Erwartungen der sich stark verändernden Gesellschaft noch erfüllen können. Und wie man diese Erwartungen erfüllen kann. Mit MOOCs?
+Traditionelle Universitäten sind mehr als 800 Jahre alt. Modernere Unis, welche Forschung und Lehre unter einem Dach verbinden, entstanden immerhin vor über 200 Jahren. Nicht zuletzt deswegen sei es an der Zeit darüber nachzudenken, ob die Unis die Erwartungen der sich stark verändernden Gesellschaft noch erfüllen können. Und wie man diese Erwartungen erfüllen kann. Mit MOOCs?
 
 === Der generische Optimist ===
 
-Für Massive Open Online Courses sprechen laut den Vortragenden beispielsweise Studien, die bestätigen, dass face-to-face unterrichtete Studierende im Schnitt um 98% (!) besser abschneiden als solche, die eine frontal-Vorlesung besucht haben. 
+Für Massive Open Online Courses sprechen laut den Vortragenden beispielsweise Studien die bestätigen, dass face-to-face unterrichtete Studierende im Schnitt um 98% (!) besser abschneiden als solche, die eine frontal-Vorlesung besucht haben. 
 
 Außerdem ermöglichen es MOOCs, welche ja weltweit abrufbar sind, immer vom besten Professor zu lernen, und das dazu gratis. 
 
-Das <strike>Internet</strike>Web ermöglicht eine "mechanische Betreuung", was dem oben erwähnten face-to-face Verhältnis schon sehr nahe kommt. Beispielsweise erleichtern Videos das erneute Betrachten einer bestimmten Erklärung. Quizes während und nach einzelner Einheiten helfen den Studierenden dabei, sich das eben gelernte besser zu merken. Außerdem ist es möglich, interaktive Quizes zu integrieren, wie zum Beispiel Rechnungen oder kleinere Programmierbeispiele. 
+Das <strike>Internet</strike>Web ermöglicht eine "mechanische Betreuung", was dem oben erwähnten face-to-face Verhältnis schon sehr nahe kommt. Beispielsweise erleichtern Videos das erneute Betrachten einer bestimmten Erklärung. Quizzes während und nach einzelner Einheiten helfen den Studierenden dabei, sich das eben gelernte besser zu merken. Außerdem ist es möglich, interaktive Quizzes zu integrieren, wie zum Beispiel Rechnungen oder kleinere Programmierbeispiele. 
 
 Ein weiterer Grund für MOOCs in der heutigen Form ist laut den Vortragenden ein enormer Bürokratie-Abbau, da der gesamte, über die Jahre gewachsene, Universitäts-Apparat wegfällt. 
 
-Enorm begeistert waren die Vortragenden von den während der Abhaltung gewonnenen Daten. Beispielsweise war es ihnen dank diverser Statistiken schnell möglich, Feedback zu den Vorlesungen zu erhalten und (didaktische) Fehler noch während dem laufenden Kurs auszubessern. Anzeichen hierfür sind zum Beispiel eine stark sinkende TeilnehmerInnen-Zahl oder eine oft wiederholte Stelle in den Videos.
-
-Ein zukunftsträchtiges Modell... <inverted classroom>
+Enorm begeistert waren die Vortragenden von den während der Abhaltung gewonnenen Daten. Beispielsweise war es ihnen dank diverser Statistiken schnell möglich, Feedback zu den Vorlesungen zu erhalten und Fehler so wie(didaktische) Fehlergriffe noch während dem laufenden Kurs auszubessern. Anzeichen hierfür sind zum Beispiel eine stark sinkende TeilnehmerInnen-Zahl oder eine oft wiederholte Stelle in den Videos.
 
 === Der generische Pessimist ===
 
@@ -55,23 +52,22 @@ Als Argumente gegen Massive Open Online Courses führen die Vortragenden neben e
 
 Die individuellen Lernmethoden der Studierenden sind neben einem Pro gleichzeitig auch eines der Contra-Punkte. Wie sich schon bei klassischen Fernstudien gezeigt hat, ist "remote learning" nicht jedermanns Sache.
 
-Außerdem wurde die im durchschnitt recht niedrige Qualität und die schwache Didaktik mancher Vortragender kritisiert. Dies sei aber auf traditionellen Unis oft auch nicht anders.
-Da es sich nicht im offizielle Uni-Kurse handelt, erfolgt keine offizielle Evaluierung, außer durch Journalisten.
+Außerdem wurde die im durchschnitt recht niedrige Qualität und die schwache Didaktik mancher Vortragender kritisiert. Dies sei aber auf traditionellen Unis oft auch nicht anders. (Da es sich nicht um offizielle Uni-Kurse handelt, erfolgt keine offizielle Evaluierung, außer durch Journalisten.)
 
-Ebenfalls erwähnt wurde die Tatsache, dass die vom <strike>Internet</strike>Web gebotenen Möglichkeiten noch bei weitem nicht ausgenutzt werden. Beispielsweise wünscht man sich virtuelle Realität, interaktive Experimente und Video-Konferenzen. (Zumindest letzteres kommt bei manchen Kursen aber mittlerweile zum Einsatz; Google Hangout hat sich hier als Mittel der Wahl erwiesen.)
+Ebenfalls erwähnt wurde die Tatsache, dass die vom <strike>Internet</strike>Web gebotenen Möglichkeiten noch bei weitem nicht ausgenutzt werden. Beispielsweise wünscht man sich virtuelle Realität, interaktive Experimente und Video-Konferenzen. (Zumindest letzteres kommt bei manchen Kursen aber mittlerweile zum Einsatz; Google Hangout hat sich hier als eines der Mittel der Wahl erwiesen.)
 
 Schummeln und Plagiate sind bei MOOCs ein noch viel größeres Problem als im Uni-Alltag, spielen jedoch derzeit eine untergeordnete Rolle, da sich Zertifikate ja nicht in ECTS oder ähnliches umwandeln lassen.
 
-Eine weitere Fragen, die sich bei gratis Kursen stellt, ist natürlich die Finanzierung. Derzeit leben die Anbieter allesamt von staatlichen Finanzierungen und Risiko-Kapitel. 
+Eine weitere Fragen, die sich bei gratis Kursen stellt, ist natürlich die Finanzierung. Derzeit leben die Anbieter allesamt von staatlichen/universitären Finanzierungen und Risiko-Kapital. 
 Eine mögliche Finanzierung durch die Wirtschaft wird kritisch gesehen, da sich hier Interessen schwer ausschließen lassen und man das nicht immer will. (Beispielsweise besteht dass Risiko, dass ein von Cisco gesponserter Netzwerk-Kurs zu einem Cisco-Kurs wird.)
 
 === Zur Kritik ===
 
-Die Vortragenden ließen es sich nicht nehmen, mehrmals darauf hinzuweisen, dass sich viele Contra-Punkte auf den Durschnitt beziehen und auch auf traditionelle Unis anwenden lassen. Außerdem wurde erneut hervorgehoben, dass die Kurse nichts kosten und vor allem wegen dem Wissen absolviert werden. Welche Qualitätsanforderungen darf man an solche "gratis Angebote" stellen? Darüber darf diskutiert werden.
+Die Vortragenden ließen es sich nicht nehmen, mehrmals darauf hinzuweisen, dass sich viele Contra-Punkte auf den Durchschnitt beziehen und auch auf traditionelle Unis anwenden lassen. Außerdem wurde erneut hervorgehoben, dass die Kurse nichts kosten und vor allem wegen dem Wissen absolviert werden. Welche Qualitätsanforderungen darf man an solche "gratis Angebote" stellen? Darüber darf diskutiert werden.
 
 === Lessons learned ===
 
-Abschließend berichteten die Vortragenden noch von ihren Erfahrungen als Lehrende von MOOCs. Beispielsweise wussten beide die großen Freiheiten für Lehrende zu schätzen, neues auszuprobieren oder altes anders zu machen. 
+Abschließend berichteten die Vortragenden noch von ihren Erfahrungen als Lehrende in MOOCs. Beispielsweise wussten beide die großen Freiheiten für Lehrende zu schätzen, neues auszuprobieren oder altes anders zu machen. 
 
 Ein weiterer interessanter Aspekt war, dass die Videos nicht der wichtigste Teil eines online Kurses sind, sondern die Foren-Diskussionen. Hier kommt es wieder zu einem ähnlichen Effekt wie bei face-to-face Unterricht.
 
