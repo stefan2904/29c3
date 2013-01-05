@@ -1,0 +1,1967 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Pentabarf//Schedule//EN
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5333.en.html
+DTSTART;TZID=Europe/Berlin:20121230T124500
+UID:5333@29C3@pentabarf.org
+DTSTAMP:20130105T024521
+CATEGORIES:Lecture
+DESCRIPTION:Did you notice 262 42 in your mobile phone network search list 
+ at the last CCC events? Did you and your friends buy SIM cards at the PoC a
+ nd help test the network by calling each other\, or by calling through the 
+ bridge to the DECT network services? Did you ever wonder about the details 
+ of this open source test network\, set up by a team of volunteers in the mi
+ ddle of the city? We would like to tell you all the details of the cell pho
+ ne network we operate at 29C3\, and show you some fancy graphs based on the
+  network activity!
+SUMMARY:29C3 GSM: Cell phone network review - 262 42 - The full spectrum
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5205.en.html
+DTSTART;TZID=Europe/Berlin:20121229T140000
+UID:5205@29C3@pentabarf.org
+DTSTAMP:20130105T024521
+CATEGORIES:Lecture
+DESCRIPTION:There are hundreds\, if not thousands\, of news articles and bl
+ og posts about the BlackHole Exploit Kit. Usually\, each story covers only 
+ a very narrow part of the subject matter. This talk will summarize the hist
+ ory of the BlackHole Exploit Kit into one easy to follow story. There will 
+ be diagrams and flow-charts for explaining code\, rather than a giant blob 
+ of illegible Javascript\, PHP\, or x86 Assembly.
+SUMMARY:Analytical Summary of the BlackHole Exploit Kit - Almost Everything
+  You Ever Wanted To Know About The BlackHole Exploit Kit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5146.en.html
+DTSTART;TZID=Europe/Berlin:20121229T160000
+UID:5146@29C3@pentabarf.org
+DTSTAMP:20130105T024521
+CATEGORIES:Lecture
+DESCRIPTION:There's about 100 top-level domains signed with DNSSEC and .nl 
+ recently hit 1M second-level domains. At this occasion\, we take a look at 
+ the goods and the bads of DNSSEC deployment\, including amplification attac
+ ks\, Zensursula-like DNS redirects\, China DNS injection and NASA key rollo
+ ver mistakes. We will find out what DNSCurve and Namecoin promise to make b
+ etter and what Zooko's triangle has all to do with this.
+SUMMARY:An Overview of Secure Name Resolution - DNSSEC\, DNSCurve and Namec
+ oin
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5237.en.html
+DTSTART;TZID=Europe/Berlin:20121229T203000
+UID:5237@29C3@pentabarf.org
+DTSTAMP:20130105T024521
+CATEGORIES:Lecture
+DESCRIPTION:With Visa and Mastercard pushing for EMV (http://www.emvco.com\
+ , aka “chip and pin”) rollout in the United States\, the uptake of contactl
+ ess payment and the use of mobile NFC wallets\, the chipcard security commu
+ nity will soon be getting more eyes to analyze the protocols in use with ch
+ ip and contactless credit card transactions.
+SUMMARY:A Rambling Walk Through an EMV Transaction
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5299.en.html
+DTSTART;TZID=Europe/Berlin:20121230T113000
+UID:5299@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Verfassungsschutzskandale gibt es nicht erst seit der Entdeckun
+ g des NSU vor einem Jahr. Vorgestellt werden: sie Affaire Traube\, der Schm
+ ücker-Prozess\, das Celler Loch\, die Vulkan-Affaire\, der Anschlagsversuch
+  auf das Jüdische Gemeindehaus West-Berlin\, vier Jahrzehnte Beobachtung vo
+ n Rolf Gössner. Vielleicht sind aber gar nicht die Pannen der Skandal\, son
+ dern vielmehr der ganz gewöhnliche Alltag des Verfassungsschutzes.
+SUMMARY:Best of ... Verfassungsschutz - Der Verfassungsschutz schützt die V
+ erfassung so wie Zitronenfalter Zitronen falten.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H15M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5379.en.html
+DTSTART;TZID=Europe/Berlin:20121229T113000
+UID:5379@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Wir schauen nicht zurück im Zorn\, aber jetzt auch nicht grade 
+ mit Euphorie. Im CCC-Jahresrückblick präsentieren wir Euch einige der hackt
+ ivistischen Themen des vergangenen Jahres\, an denen der CCC gearbeitet ode
+ r sich abgearbeitet hat. Diesmal mit schönen neuen Gesetzen\, Hacker-Humor\
+ , versäumten Gerichtsterminen\, bunten Blinkenlichtern und Iggy Pop. Wir ha
+ ben uns wirklich das ganze Jahr bemüht\, nur in begrenztem Umfange zu prokr
+ astinieren.
+SUMMARY:CCC-Jahresrückblick
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5319.en.html
+DTSTART;TZID=Europe/Berlin:20121228T124500
+UID:5319@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Hypertext Transfer Protocol Secure (HTTPS) has evolved into the
+  de facto standard for secure web browsing. But in the security community\,
+  it has long been known that HTTPS is fundamentally broken\, and this has b
+ een confirmed by alarming hacks and security breaches at several Certificat
+ e Authorities (CAs). To tackle the global collapse of trust in these centra
+ l mediators of HTTPS communications and to augment HTTPS security\, the EU 
+ has launched a proposal for strict regulation. Will these efforts succeed?
+SUMMARY:Certificate Authority Collapse - Will the EU Succeed in Regulating 
+ HTTPS? 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5263.en.html
+DTSTART;TZID=Europe/Berlin:20121230T171500
+UID:5263@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Wir brauchen ein maschinenlesbares und -schreibbares Gesetzgebu
+ ngsverfahren\, in dem jede Änderung transparent diskutiert und beschlossen 
+ wird. Der Bundestag öffnet und digitalisiert sich eher langsam und widerwil
+ lig\, dennoch kann man schon heute anfangen\, die Werkzeuge der parlamentar
+ ischen Zukunft in Deutschland zu gestalten und auszuprobieren. Dazu stellen
+  wir die Projekte OffenesParlament.de und das Bundes-Git vor und zeigen\, w
+ ie es in Zukunft weitergehen könnte.
+SUMMARY:chmod o+rw bundestag - Mehr Transparenz und Teilhabe im Gesetzgebun
+ gsprozess
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5398.en.html
+DTSTART;TZID=Europe/Berlin:20121230T183000
+UID:5398@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Some facts and stats about Congress\, plus stories and legends.
+SUMMARY:Closing Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5417.en.html
+DTSTART;TZID=Europe/Berlin:20121229T113000
+UID:5417@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:CVE-2011-3402 is well known as the Windows Kernel TrueType [Fon
+ t]0-day used in the "Duqu" attack(s). Recently this exploit has begun toapp
+ ear in several crimeware exploit kits... Actually\, not merely just theexpl
+ oit\, but the *entire* font file used by Duqu\, now being harnessed toinfec
+ t a large population with malware.  This talk will mostly be anextremely lo
+ w-level walk-through of the font program within this TrueTypefont\, which i
+ s used to manipulate the Windows Kernel into executing thenative x86 shellc
+ ode.
+SUMMARY:CVE-2011-3402 Technical Analysis
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5221.en.html
+DTSTART;TZID=Europe/Berlin:20121227T140000
+UID:5221@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Wir sind Zeugen eines seit einigen Jahren stattfindenden Wettrü
+ stens im Cyberspace. Immer mehr Staaten bauen militärische Cyberware Einhei
+ ten auf\, die aus IT Spezialisten bestehen und dem Zweck dienen\, bestenfal
+ ls  IT Systeme abzusichern oder schlechterdings Systeme von „Feinden“ anzug
+ reifen. 
+SUMMARY:Cyberpeace statt Cyberwar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5301.en.html
+DTSTART;TZID=Europe/Berlin:20121228T203000
+UID:5301@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Aside from further development of traditional forensic techniqu
+ es which involve post-mortem hard disk analysis\, in the last couple of yea
+ rs the field of computer forensics has been marked by significant developme
+ nt of live forensic techniques and tools.Memory forensics is composed of tw
+ o main activities: memory aquisition/capture and analysis. This presentatio
+ n will give an overview of the memory acquisition and analysis techniques a
+ nd tools on the Windows operating systems. The main part of the presentatio
+ n will cover current exploitation techniques and methods for defeating both
+  acquisition and analysis phase of the memory forensics\, as well as presen
+ t a new approach for hiding specific artifacts from forensic tools. Based o
+ n the covered exploitation techniques\, some suggestions and improvements o
+ f the current tools will be given.
+SUMMARY:Defeating Windows memory forensics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5159.en.html
+DTSTART;TZID=Europe/Berlin:20121227T203000
+UID:5159@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Over the years we learned impressively how to oppose bad legisl
+ ation hurting our freedoms online. We are now facing an even bigger challen
+ ge: how to guarantee that a Free\, open\, decentralized Internet will be pr
+ otected in the long run? In 2012 The Internetz won major battles against SO
+ PA/PIPA in the US\, and against ACTA in the EU. Yet\, we know that the powe
+ rful industries and governments behind these projects will never stop. They
+  have an incentive to gain control of the Internet\, attacking fundamental 
+ rights and promoting technologies like "Deep Packet Inspection"\, now being
+  deployed in each and every corner of the Net\, and used indifferently to b
+ reak Net neutrality\, to filter\, block and censor communications or to ins
+ pect citizens traffic.How to push for proposals that will ensure that the s
+ haring of knowledge and culture\, citizens freedoms\, and access to an open
+  infrastructure will be guaranteed in the future public policies? How to be
+ come as successful in proposition as we are now in opposition?(Hint: it's p
+ olitical\, stupid!)
+SUMMARY:Defend your Freedoms Online: It's Political\, Stupid! - A Positive 
+ agenda against the next ACTA\, SOPA\, and such
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5401.en.html
+DTSTART;TZID=Europe/Berlin:20121228T171500
+UID:5401@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Die Debatte um die Tarifreform der GEMA war eines der großen Th
+ emen des Jahres 2012: Die Verwertungsgesellschaft geriet quer durch alle po
+ litischen Lager und gesellschaftlichen Schichten in die Kritik\, die Warnun
+ gen vor einem großen Clubsterben wurden von Tausenden auf die Straße getrag
+ en. Dies steigerte auch das Interesse an der »Cultural Commons Collecting S
+ ociety« (C3S)\, einem Graswurzelprojekt zur Gründung einer neuen\, modernen
+  und internetverstehenden Verwertungsgesellschaft\, die u. a. auch vollen S
+ upport für Creative-Commons-Lizenzen bieten soll. 2012 war daher auch ein e
+ reignisreiches Jahr für dieses Projekt\, und 2013 sollen nach Plan die Grün
+ dung als Europäische Genossenschaft und die Antragsstellung beim Deutschen 
+ Patent- und Markenamt folgen.
+SUMMARY:Der Mord fällt aus - Ein Werkstattbericht der GEMA-Alternative C3S
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT5H15M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5409.en.html
+DTSTART;TZID=Europe/Berlin:20121229T110000
+UID:5409@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5416.en.html
+DTSTART;TZID=Europe/Berlin:20121227T153000
+UID:5416@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5406.en.html
+DTSTART;TZID=Europe/Berlin:20121227T170000
+UID:5406@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5410.en.html
+DTSTART;TZID=Europe/Berlin:20121229T170000
+UID:5410@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT5H30M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5407.en.html
+DTSTART;TZID=Europe/Berlin:20121228T110000
+UID:5407@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT3H30M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5405.en.html
+DTSTART;TZID=Europe/Berlin:20121227T110000
+UID:5405@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5408.en.html
+DTSTART;TZID=Europe/Berlin:20121228T170000
+UID:5408@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deutschlandfunk @ 29C3 - Interviews\, Talkrunden\, Kennenlernen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5382.en.html
+DTSTART;TZID=Europe/Berlin:20121227T160000
+UID:5382@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Am 6. November 2012 war der CCC vor dem Bundesverfassungsgerich
+ t zur Anhörung über die Antiterrordatei und die Grenzen polizeilicher Daten
+ verarbeitung geladen. Wir berichten über die Anhörung\, die dort vorgebrach
+ ten Argumente und die technische Konzeption der ATD. Und wir orakeln über e
+ in mögliches Urteil im nächsten Jahr.
+SUMMARY:Die Antiterrordatei
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5181.en.html
+DTSTART;TZID=Europe/Berlin:20121227T124500
+UID:5181@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In den vergangenen Jahren wurde vor allem die Sprache von Polit
+ ikern auf dem Congress beleuchtet. Aber die schwurbelnde Politiker sind noc
+ h nicht die ganze Wahrheit. Wir möchten das Ganze daher um den zweiten wich
+ tigen Mitspieler bei der Konstruktion von Realität ergänzen\, um die Presse
+  bzw. die Medien. Die Äußerungen von Politikern (zum Beispiel auf Pressekon
+ ferenzen) sollen dabei der Mediendarstellung gegenübergestellt werden. Dabe
+ i wird deutlich werden\, dass es zwischen Politikern und Medien Rückkopplun
+ gseffekte gibt.
+SUMMARY:Die Wahrheit\, was wirklich passierte und was in der Zeitung stand 
+ - Wie Medien unsere Wahrnehmung beeinflussen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H15M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5338.en.html
+DTSTART;TZID=Europe/Berlin:20121227T203000
+UID:5338@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:With the post 9/11 rise of the leviathan national security stat
+ e\, the rule of law in the United States under the Constitution is increasi
+ ngly rule by secrecy\, surveillance and executive fiat.
+SUMMARY:Enemies of the State: What Happens When Telling the Truth about Sec
+ ret US Government Power Becomes a Crime - Blowing the Whistle on Spying\, L
+ ying & Illegalities in the Digital Era
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5104.en.html
+DTSTART;TZID=Europe/Berlin:20121228T230000
+UID:5104@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:This presentation will cover a demonstration of the new version
+  of the Canape protocol analysis tool being released for Ruxcon. During the
+  course of the presentation various attack scenarios against the VMWare ESX
+ i binary protocol will be demonstrated using Canape.
+SUMMARY:ESXi Beast - Exploiting VMWARE ESXi Binary Protocols Using CANAPE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5077.en.html
+DTSTART;TZID=Europe/Berlin:20121229T131500
+UID:5077@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Recently\, several research papers in the area of computer secu
+ rity were published that may or may not be considered unethical. Looking at
+  these borderline cases is relevant as today’s research papers will influen
+ ce how young researchers conduct their research. In our talk we address var
+ ious cases and papers and highlight emerging issues for ethic committees\, 
+ internal review boards (IRBs) and senior researchers to evaluate research p
+ roposals and to finally decide where they see a line that should not be cro
+ ssed.
+SUMMARY:Ethics in Security Research
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5085.en.html
+DTSTART;TZID=Europe/Berlin:20121228T113000
+UID:5085@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:We know\, that cooking is an art. Selecting the ingredients\, c
+ arefully washing\, pealingand cutting them before you put them into the rig
+ ht dish at the right time with the right heat.Watching the food change his 
+ color\, form and consistency\, seasoning it to develop it'sflavors and serv
+ ing it on beautiful plates  is a pleasure.For some\, but not for all.Those 
+ who love cooking can spend hours at the stove andrelax while preparing deli
+ cious meals. For others cooking is pure stress. What is the difference betw
+ een orange and yellowcarrots? Did I forget something? Is the pan hot enough
+ ? Or too hot? How long after thepasta do I start cooking the steak? Will it
+  be healthy? Is it sustainable?So many questionsappear if one starts to thi
+ nk about food. The answers are complicatedand ambiguous. They require resea
+ rch and analyzing. Many have stopped thinkingabout food. They just believe 
+ what is written on thepackage.I can't cook is such an easy answer. And it i
+ s accepted in our society. Nobody isashamed of it. This gives more and more
+  control tomultinational corporations. Through precookedfood and shiny comm
+ ercials they calm our conscience and stimulate our laziness.The consequence
+ s are dramatic!The profit-focused approach of multinationalcorporations hav
+ e led to things like:• Patented genetically modified seeds. Lawyers suing f
+ armers for copyrights.• Destruction of South-American jungle to make soya t
+ o feed European cows so theymake more milk. Although a cow as never born to
+  eat proteins.• Chickens that can't stand on their own feet due to the weig
+ ht of their breasts. Theywill never see soil\, worms or even sunlight.• Ora
+ n-Utangs losing their homes for palm oil• Vegetables getting grown in the d
+ esert\, wasting huge amounts of drinking water.Conclusions:• We must know m
+ ore about our food• We have to cook more ourselves• So we will recover some
+  control over what we eat
+SUMMARY:EveryCook - Cooking gets digital 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5275.en.html
+DTSTART;TZID=Europe/Berlin:20121228T183000
+UID:5275@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:RSA is the dominant public-key cryptosystem on the Internet. Th
+ is talk will explain the state of the art in techniques for the attacker to
+  figure out your secret RSA keys.
+SUMMARY:FactHacks - RSA factorization in the real world
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5198.en.html
+DTSTART;TZID=Europe/Berlin:20121229T230000
+UID:5198@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Neues Jahr\, neue Fnords :-)
+SUMMARY:Fnord-Jahresrückblick - Diesmal mit noch mehr Eurozonen-Spaltung!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5226.en.html
+DTSTART;TZID=Europe/Berlin:20121229T214500
+UID:5226@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:The calypso baseband and its companion chips are used on the Mo
+ torola C123 among other and are now well known for being supported by the O
+ smocom-BB open source GSM baseband implementation. A couple years ago\, it 
+ was hacked a little further by using it as a raw bits capture device allowi
+ ng the interception of GSM traffic very cheaply.
+SUMMARY:Further hacks on the Calypso platform - or how to turn a phone into
+  a BTS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5250.en.html
+DTSTART;TZID=Europe/Berlin:20121228T001500
+UID:5250@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Beim Googlequiz treten Teams gegeneinander an\, die *ohne Inter
+ net* Aufgaben zu Googlesuchen und Suchergebnissen raten.
+SUMMARY:Googlequiz - Wie man (spaßorientiert) mehr als 5% seines Googleverm
+ ögens trainiert
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5309.en.html
+DTSTART;TZID=Europe/Berlin:20121228T230000
+UID:5309@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Hacker Jeopardy - Zahlenraten für Geeks
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5024.en.html
+DTSTART;TZID=Europe/Berlin:20121228T203000
+UID:5024@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Hackers are a high-risk population. This talk will provide hack
+ ers with tools to reduce the risk to themselves and their communities using
+  harm reduction methodology.
+SUMMARY:Hackers As A High-Risk Population - Harm Reduction Methodology
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5400.en.html
+DTSTART;TZID=Europe/Berlin:20121227T230000
+UID:5400@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:We discuss a set of 0-day kernel vulnerabilities in CNU (Cisco 
+ NativeUnix)\, the operating system that powers all Cisco TNP IP phones. Wed
+ emonstrate the reliable exploitation of all Cisco TNP phones viamultiple vu
+ lnerabilities found in the CNU kernel. We demonstratepractical covert surve
+ illance using constant\, stealthy exfiltration ofmicrophone data via a numb
+ er of covert channels. We also demonstrate theworm-like propagation of our 
+ CNU malware\, which can quickly compromiseall vulnerable Cisco phones on th
+ e network. We discuss the feasibilityof our attacks given physical access\,
+  internal network access and remoteaccess across the internet. Lastly\, we 
+ built on last year's presentationby discussing the feasibility of exploitin
+ g Cisco phones fromcompromised HP printers and vice versa.
+SUMMARY:Hacking Cisco Phones - Just because you are paranoid doesn't mean y
+ our phone isn't listening to everything you say
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5179.en.html
+DTSTART;TZID=Europe/Berlin:20121229T183000
+UID:5179@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Wir sehen in der digitalen Technik großes Potential zur Demokra
+ tisierung und Befreiung der Menschen. Doch machen wir uns nichts vor. Techn
+ ik kann genausogut der Entmündigung von Menschen dienen. Je komplexer sie w
+ ird\, desto mehr sind wir von Vereinfachung abhängig und desto weniger Einf
+ luss können wir selber auf die Technik nehmen.
+SUMMARY:Hacking Philosophy - Digitale Mündigkeit\, Technikpaternalismus und
+  warum wir Netzphilosophie brauchen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5270.en.html
+DTSTART;TZID=Europe/Berlin:20121229T001500
+UID:5270@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:This is fun stuff for the late night program\, not a serious ta
+ lk: Is it possible to read sb. others mind? In the late 1920ies/early 1930i
+ es Berlin was excited by the famous mindreader and fortune-teller Erik Jan 
+ Hanussen who performed his strange abilities on stage. His act was so convi
+ ncing that leading nazis believed in his powers and wanted him for advice –
+  until they decided to murder him. 
+SUMMARY:Hanussen's mindreading - Experiments of the historical psychic
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5152.en.html
+DTSTART;TZID=Europe/Berlin:20121229T214500
+UID:5152@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:At 28C3\, Klink and Waelde showed that a number of technologies
+  (PHP\, ASP.NET\,Ruby\, Java\, Python\, etc.) were vulnerable to the decade
+ -old hash-flooding DoSattacks. The vulnerability was then often fixed by ad
+ opting stronger hashfunctions and "randomizing" them.
+SUMMARY:Hash-flooding DoS reloaded: attacks and defenses
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5287.en.html
+DTSTART;TZID=Europe/Berlin:20121227T183000
+UID:5287@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:NSU-Untersuchungsausschuss in Thüringen und NSU-Untersuchungsau
+ sschuss des Bundestages\, über die Mordserie des NSU\, das System der V-Leu
+ te und die Rolle des Verfassungsschutzes.Zwölf Jahre lang konnte der „Natio
+ nalsozialistische Untergrund“ (NSU) unerkannt in Deutschland eine rassistis
+ che Mordserie an neun migrantischen Gewerbetreibenden\, zwei Bombenanschläg
+ e mit mehr als zwanzig Verletzten\, den Mord an einer jungen Polizistin sow
+ ie ein Dutzend Banküberfälle verüben.
+SUMMARY:Hinter den Kulissen: Der NSU und das V-Leute-System
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5219.en.html
+DTSTART;TZID=Europe/Berlin:20121228T203000
+UID:5219@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:An approach to the problem of fuzzing proprietary protocols wil
+ l be shown\, focusing on network protocols and native software. In the cour
+ se of this talk I will combine several methods in order to force the client
+  software to work as a “double agent” against the server.
+SUMMARY:"How I met your pointer" - Hijacking client software for fuzz and p
+ rofit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5368.en.html
+DTSTART;TZID=Europe/Berlin:20121228T183000
+UID:5368@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Sechs Jahre nach seinem Inkrafttreten wurde das Informationsfre
+ iheitsgesetz (IFG) des Bundes für den Deutschen Bundestag evaluiert. Auch a
+ us einzelnen Bundesländern liegen zwischenzeitlich wissenschaftlich unterma
+ uerte Erkenntnisse zum Stand oder Nichtstand der Informationsfreiheit in De
+ utschland vor.
+SUMMARY:IFG: Chance oder Bürgerbluff? - Informationsfreiheit in Deutschland
+ . Ein Sachstand.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5397.en.html
+DTSTART;TZID=Europe/Berlin:20121227T183000
+UID:5397@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:INFECT: "Bei der Forschung an unserem neuen Killervirus hat uns
+ ere Ethikkommission penibelst darauf geachtet\, dass niemand der Forscher s
+ ich ansteckt."
+SUMMARY:INDECT\, Verhaltenserkennung & Co - automatisierte staatliche Verdä
+ chtigung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5112.en.html
+DTSTART;TZID=Europe/Berlin:20121227T124500
+UID:5112@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:This talk is aimed to give an insight into CPE WAN Management P
+ rotocol (CWMP) and its GPLv2 implementations that were developed in the pas
+ t year.
+SUMMARY:ISP's black box - provisioning behind the scenes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5216.en.html
+DTSTART;TZID=Europe/Berlin:20121228T214500
+UID:5216@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In the last years\, mobile security and specifically GSM has be
+ en attacked in many different ways. It was demonstrated how to sniff and cr
+ ack traffic\, how to impersonate a subscriber by placing a fake call and th
+ e general security characteristics of this mobile protocol stack have been 
+ evaluated.In this presentation\, we will check out a part of the protocol p
+ rocedures that hasn't been looked at yet\, specifically Mobile Terminated s
+ ervices.
+SUMMARY:Let Me Answer That for You - adventures in mobile paging
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H15M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5316.en.html
+DTSTART;TZID=Europe/Berlin:20121228T124500
+UID:5316@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Lightning Talks 1 - 5 Minutes of Fame
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H15M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5383.en.html
+DTSTART;TZID=Europe/Berlin:20121229T124500
+UID:5383@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Lightning Talks 2 - 5 Minutes of Fame
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H15M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5384.en.html
+DTSTART;TZID=Europe/Berlin:20121230T124500
+UID:5384@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Lightning Talks 3 - 5 Minutes of Fame
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H45M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5413.en.html
+DTSTART;TZID=Europe/Berlin:20121229T161500
+UID:5413@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Publikum willkommen.
+SUMMARY:Live-Sendung »Computer und Kommunikation« - Deutschlandfunk @ 29C3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5411.en.html
+DTSTART;TZID=Europe/Berlin:20121227T163000
+UID:5411@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Publikum willkommen.
+SUMMARY:Live-Sendung »Forschung Aktuell« - Deutschlandfunk @ 29C3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5412.en.html
+DTSTART;TZID=Europe/Berlin:20121228T163000
+UID:5412@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Publikum willkommen.
+SUMMARY:Live-Sendung »Forschung Aktuell« - Deutschlandfunk @ 29C3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5305.en.html
+DTSTART;TZID=Europe/Berlin:20121229T171500
+UID:5305@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:We're winning!  The future looks like network politics!Wait\, w
+ hat the hell are network politics and how do they work?  Is that like the P
+ irate Party\, or the IETF\, or Anonymous?
+SUMMARY:Long live the protocoletariat!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5124.en.html
+DTSTART;TZID=Europe/Berlin:20121229T183000
+UID:5124@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Security is moving deeper into hardware and so should security 
+ research. This talks introduces microprobing\, an old technique for snoopin
+ g on data inside chips\, and details a low-cost probing setup.
+SUMMARY:Low-Cost Chip Microprobing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5088.en.html
+DTSTART;TZID=Europe/Berlin:20121228T171500
+UID:5088@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:You might remember Tamagotchi virtual pets from the 1990's. The
+ se toys are still around and just as demanding as ever! This talk covers my
+  attempts to hack the latest Tamagotchis. Starting with the IR interface\, 
+ and moving down into the hardware\, this presentation will discuss techniqu
+ es for reverse engineering a device with limited inputs\, computing power a
+ nd debugging capabilities. 
+SUMMARY:Many Tamagotchis Were Harmed in the Making of this Presentation
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5180.en.html
+DTSTART;TZID=Europe/Berlin:20121230T160000
+UID:5180@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Autonomer Drumroboter\, robotisches Glockenspiel oder klingende
+  Installation: Musikinstrumente zu modifizieren und selbstzubauen bietet mu
+ sik- und technikaffinen Geeks die Möglichkeit\, vorgefertigten Klang-Setups
+  etwas eigenständiges entgegenzusetzen. Drumroboter und Klanginstallationen
+  üben dabei sowohl physisch als auch optisch einen besonderen Reiz aus: die
+  Quelle des Klangs wird entdeckt.
+SUMMARY:Marvin und der Blues - Wie Roboterinstrumente zum Musik machen benu
+ tzt werden können
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5282.en.html
+DTSTART;TZID=Europe/Berlin:20121228T214500
+UID:5282@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Mit RFID-Lesegeräten Menschen tracken - keine Zukunftsvision.
+SUMMARY:Meine Kleidung funkt - Tracking von Menschen durch in Kleidung inte
+ grierte RFID-Chips
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5289.en.html
+DTSTART;TZID=Europe/Berlin:20121228T113000
+UID:5289@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Meldegesetz und der erfolgreiche Protest dagegen.
+SUMMARY:Meldegesetz - Was aus dem 57-Sekunden-Gesetz wurde
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5285.en.html
+DTSTART;TZID=Europe/Berlin:20121229T214500
+UID:5285@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Unsichere Studierenden- und Mensakarten. Eine wissenschaftliche
+  Auswertung.
+SUMMARY:Men who stare at bits - RFID-Studierendenkarten mit Fehlern
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5393.en.html
+DTSTART;TZID=Europe/Berlin:20121229T203000
+UID:5393@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Contactless smartcards have become widespread for applications 
+ such as ticketing\, access control\, identification and payments. Side-chan
+ nel analysis (SCA) is a powerful type of passive implementation attack that
+  enables to extract the secret keys of cryptographic devices. At the exampl
+ e of NXP's Mifare DESfire MF3ICD40 smartcards we demonstrate that SCA attac
+ ks can be applied to cryptographic RFID devices: By exploiting the electro-
+ magnetic information leakage of the cards\, its cryptographic keys are reve
+ aled.We introduce our open-source tools for analyzing contactless smartcard
+ s\, i.e.\, an ISO 14443 RFID reader (http://sourceforge.net/projects/reader
+ 14443) and the card emulator Chameleon (http://sourceforge.net/projects/cha
+ meleon14443). We then present the probably worst realization of a commercia
+ l contactless payment system ever and detail on various real-world attacks 
+ on this widespread (in Germany) system\, e.g.\, how to 'milk the digital ca
+ sh cow' by modifying the credit balance and convert zeros and ones into rea
+ l money. The content of the talk is joint work with Ingo von Maurich\, Davi
+ d Oswald and Christof Paar.
+SUMMARY:Milking the Digital Cash Cow - Extracting Secret Keys of Contactles
+ s Smartcards
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5280.en.html
+DTSTART;TZID=Europe/Berlin:20121230T113000
+UID:5280@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Massive open online courses are the vogue of the season when it
+  comes to discussing the future of university-level education. But we’re on
+ ly starting to see what education at this scope means and how it can be sup
+ ported best\, in terms of both didactics and technology. This talk is an in
+ side report by two instructors who have delved into the experience of teach
+ ing large audiences online. We share the lessons that we have learned: how 
+ to spark student interest\, how to put intuition before formal theories\, h
+ ow to streamline production and much more. And we point out what needs to b
+ e done to truly democratize education from the viewpoint of both the studen
+ ts and the instructors.
+SUMMARY:Millions of Lessons Learned on Electronic Napkins - On the way to f
+ ree(ing) education
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5102.en.html
+DTSTART;TZID=Europe/Berlin:20121227T171500
+UID:5102@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In den letzten Jahren haben sich die netzpolitischen Kräfteverh
+ ältnisse auf interessante Weise verschoben. Neue Allianzen bilden sich sowo
+ hl gegen als auch für das freie Internet – und dennoch bleibt der Aktivismu
+ s weit hinter seinem Potential zurück.
+SUMMARY:Netzaktivisten! Ist das alles\, was wir drauf haben? - Eine subjekt
+ ive Bestandsaufnahme
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5134.en.html
+DTSTART;TZID=Europe/Berlin:20121227T214500
+UID:5134@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Human interface design for musical instruments presents unique 
+ challenges and vast new possibilities.  The proliferation of low cost rapid
+ -prototyping tools has put the means of fabricating instruments within reac
+ h of the performing musician.  In this talk\, I'll go through the design pr
+ ocess for my main performance controller (The Mojo)\, my multiplayer instru
+ ments (aka Jamboxes) and my new RoboCaster guitar-controller.
+SUMMARY:New Human Interfaces for Music - DIY MIDI Controllers
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5404.en.html
+DTSTART;TZID=Europe/Berlin:20121230T160000
+UID:5404@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:NOC Review - NOC Review about the 29C3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5415.en.html
+DTSTART;TZID=Europe/Berlin:20121227T143000
+UID:5415@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Publikum willkommen.
+SUMMARY:Not my department - Frank Rieger im Interview über den 29C3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5385.en.html
+DTSTART;TZID=Europe/Berlin:20121227T113000
+UID:5385@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:On the topic of resistance.
+SUMMARY:Not my department
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5037.en.html
+DTSTART;TZID=Europe/Berlin:20121228T001500
+UID:5037@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Gut gereift und mit verbesserter Rezeptur.Aber immer noch:Zwei 
+ sich auf Couchen fläzende Teams gehirnwinden\, spitzfinden und assoziieren 
+ gegeneinander an\, um Bilderrätsel aus den Gefilden IT\, Netzgesellschaft u
+ nd Informatik zu entwirren.(Hashtag: #Nougatbytes)
+SUMMARY:Nougatbytes 10 - Gebilde(r)ter Hirnsalat – die rhekkcüЯ der Bilderr
+ ätsel
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5203.en.html
+DTSTART;TZID=Europe/Berlin:20121228T143000
+UID:5203@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Polish government decided in favour of open-licensed e-textbook
+ s. This is not to liking of big textbook publishers\, reaping in profits ha
+ nd over fist. While their black PR campaign focuses on technicalities\, it 
+ seems obvious that their real beef is with the liberal licensing.
+SUMMARY:OMG! OER! - How big business fights open education in Poland\, and 
+ how open education fights back!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5210.en.html
+DTSTART;TZID=Europe/Berlin:20121229T140000
+UID:5210@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:The Security Assertion Markup Language (SAML) is a widely adopt
+ ed language for making security statements about subjects. It is a critical
+  component for the development of federated identity deployments and Single
+  Sign-On scenarios. In order to protect integrity and authenticity of the e
+ xchanged SAML assertions\, the XML Signature standard is applied. However\,
+  the signature verification algorithm is much more complex than in traditio
+ nal signature formats like PKCS#7. The integrity protection can thus be suc
+ cessfully circumvented by application of different XML Signature specific a
+ ttacks\, under a weak adversarial model.
+SUMMARY:On Breaking SAML - Be Whoever You Want to Be
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H15M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5399.en.html
+DTSTART;TZID=Europe/Berlin:20121227T110000
+UID:5399@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Opening Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5308.en.html
+DTSTART;TZID=Europe/Berlin:20121229T160000
+UID:5308@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Was bedeutet das Zeitalter offener Designs für die Sicherheit v
+ on Schlössern? Zum Beispiel solchen\, die auf eine geringe Verbreitung eine
+ s Schlüssels setzen? Ein Beispiel sind die sogenannten Hochsicherheitsversi
+ onen von Polizeihandschellen. Der Talk zeigt was (und wie) sich in diesem B
+ ereich mit Lasercuttern und 3D Druckern erreichen lässt - sowie welche komp
+ lexeren Angriffsziele noch warten. Als Ausweg aus der Problematik kopierbar
+ er Schlüssel gelten digitale Schlösser\, aber sie kranken anders an offenen
+  Quellen: sie haben keine! Im Rahmen eines Open Source Lock Projektes haben
+  wir uns daher ein reflashbares Vorhängeschloss angesehen\, doch noch ehe w
+ ir den Programmieradapter angeschlossen hatten fanden wir eine Schwachstell
+ e der Hardware... Leider kein Einzelfall!
+SUMMARY:Open Source Schlüssel und Schlösser - Offene Quellen zum Bösen und 
+ Guten: von downloadbaren Handschellenschlüsseln zu sicheren elektronischen 
+ Schlössern
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5395.en.html
+DTSTART;TZID=Europe/Berlin:20121227T140000
+UID:5395@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Legal systems have a huge impact on what we do as hackers\, but
+  also on internet users in general. Laws can restrict our freedom to use th
+ e internet in ways we deem to be natural and it can impede the tools which 
+ we hackers use on a daily basis. Which is not to say that laws cannot also 
+ protect our freedom and ensure that all bits are treated equally. Most impo
+ rtantly\, these laws can be hacked and tweaked to fit our needs - like most
+  things in this world.
+SUMMARY:Our daily job: hacking the law - The key elements of policy hacking
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5265.en.html
+DTSTART;TZID=Europe/Berlin:20121230T171500
+UID:5265@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:x86 processors contain a surprising amount of built-in memory t
+ ranslation logic\, which is driven by various data tables with intricate en
+ try formats\, and can produce various kinds of traps and other interesting 
+ computational effects. These features are mostly relics of earlier\, more c
+ ivilized times\, when Jedi Knights tried to protect the Old Republic OSes w
+ ith segmentation\, supervisor bits\, and hardware task support\, but were d
+ efeated by processor de-optimizations and performance concerns and left unu
+ sed by both Windows and UNIX systems – and explored only by hackers. For th
+ e rest of the world\, an x86 PC was a "von Neumann architecture" with most 
+ of its strangeness unused.
+SUMMARY:Page Fault Liberation Army or Gained in Translation - a history of 
+ creative x86 virtual memory uses
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5323.en.html
+DTSTART;TZID=Europe/Berlin:20121229T230000
+UID:5323@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Der Vortrag handelt über Getreidezüchtung. Am Beispiel von Weiz
+ en soll der langjährige Prozess beschrieben werden\, den es benötigt\, um  
+ eine neue Sorte auf den Markt zu bringen. Es sollen die biologischen Grundl
+ agen sowie die benötigte Technik vorgestellt werden. Außerdem wird auf die 
+ Problematik eingegangen\, die die Konzentration des Marktes auf wenige groß
+ e Konzerne mit sich bringt.
+SUMMARY:Pflanzenhacken richtig - Einblicke in die Weizenzüchtung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5095.en.html
+DTSTART;TZID=Europe/Berlin:20121227T183000
+UID:5095@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:To date\, remote vehicle communications have provided little in
+  the way of privacy. Much information and misinformation has been spread on
+  what the system is and can do\, especially within the information security
+  community. The recent field trial in the US of a connected vehicle infrast
+ ructure raises the level of concern amongst all who are aware of existing p
+ rivacy issues.
+SUMMARY:Privacy and the Car of the Future - Considerations for the Connecte
+ d Vehicle
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5101.en.html
+DTSTART;TZID=Europe/Berlin:20121229T160000
+UID:5101@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:ACTA war das beherrschende Thema des zweiten Halbjahres. Mit AC
+ TA sollte der Weg einer Privatisierung der Rechtsdurchsetzung weiter gegang
+ en werden. Was das konkret bedeutet\, können wir bereits im Ausland sehen: 
+ Netzsperren\, 3-Strikes-Systeme und eine Echtzeit-Überwachung des Datenverk
+ ehrs zur Bekämpfung von Urheberrechtsverletzungen. Existierende Modelle in 
+ anderen europäischen Staaten zeigen\, dass diese Maßnahmen erhebliche grund
+ - und datenschutzrechtliche Probleme aufwerfen. 
+SUMMARY:Privatisierung der Rechtsdurchsetzung - Von ACTA\, IPRED und Freund
+ en
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5266.en.html
+DTSTART;TZID=Europe/Berlin:20121230T140000
+UID:5266@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Zensur im Internet betrifft immer mehr Nutzer. Wir kennen Tools
+  wie Proxies\, VPNs oder Tor Bridges. Doch welche weiteren Werkzeuge unters
+ tützen die Nutzer vor Ort? Wo sind die Stärken und Schwächen? Der Vortrag s
+ tellt einige von diesen vor und zeigt die Stärken und Schwächen.
+SUMMARY:Proximax\, Telex\, Flashproxy oder Tor Bridges - Übersicht über akt
+ uelle Zensurumgehungssoftware
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5374.en.html
+DTSTART;TZID=Europe/Berlin:20121227T171500
+UID:5374@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION: This talk will give an overview of the ongoing work by the W3C
+  on a controversial general purpose Javascript cryptography API in context 
+ of the larger desire to create trusted and encrypted cloud services with ri
+ ch web applications. Today\, cryptography is difficult to use and the Web i
+ s an insecure environment at best\, but can this situation be improved and 
+ cryptography be put in the hands of ordinary developers and users? The W3C 
+ specification\, currently under development\, will be described\, as well a
+ s its interaction with other parts of the emerging Web Security Model at th
+ e W3C and IETF such as Content Security Policy\, HTTP Strict Transport Secu
+ rity\, and Certificate Transparency. A number of use-cases\, ranging from d
+ ecentralized identity systems to secure cloud services for activists\, will
+  be detailed. As the specification will be under active development until a
+ utumn 2013\, feedback from the hacker community is needed! 
+SUMMARY:Re-igniting the Crypto Wars on the Web
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5138.en.html
+DTSTART;TZID=Europe/Berlin:20121228T131500
+UID:5138@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In 1791\, the political reformer Jeremy Bentham theorized the P
+ anopticon\, whose design promised to allow a single Inspector to surveil (e
+ xercise "inspective force" over) large numbers of criminals or workers. In 
+ recent years\, the advent of a suitable technical apparatus – CCTV\, ISP ta
+ ps (network traffic interception)\, data banks\, and so on – has extended t
+ he proposed 30m circumference of Bentham’s structure to\, and beyond\, the 
+ physical boundaries of entire countries. While total surveillance is often 
+ perceived as a feature of modernity\, its conceptual and epistemological fr
+ amework is rooted in the Romantic period\, moreover at a key juncture in th
+ e history of ideas concerning individual subjectivity\, rights and freedoms
+ . David Barnard-Wills refers to inspective culture as a "nexus of surveilla
+ nce\, identity and language" (2012). In this talk\, we examine this nexus i
+ n the historical period that first\, and so powerfully\, imagined the fully
+  surveilled world.
+SUMMARY:Romantic Hackers - Keats\, Wordsworth and Total Surveillance
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5402.en.html
+DTSTART;TZID=Europe/Berlin:20121229T183000
+UID:5402@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Privacy International\, Agentura.Ru\, the Russian secret servic
+ es watchdog\, and Citizen Lab have joined forces to launch a new project en
+ titled 'Russia’s Surveillance State'. The aims of the project are to undert
+ ake research and investigation into surveillance practices in Russia\, incl
+ uding the trade in and use of surveillance technologies\, and to publicise 
+ research and investigative findings to improve national and international a
+ wareness of surveillance and secrecy practices in Russia.  The project is m
+ ade possible with support from the Canada Centre for Global Security Studie
+ s\, Munk School of Global Affairs\, at the University of Toronto.
+SUMMARY:Russia’s Surveillance State
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5140.en.html
+DTSTART;TZID=Europe/Berlin:20121228T214500
+UID:5140@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:The triple meltdown of the Fukushima Dai-Ichi nuclear power pla
+ nt in March last year and the release of radioactive material that has ensu
+ ed have left a good part of Northern Japan contaminated with unknown amount
+  of radioactivity. An outstanding lack of transparency from both the govern
+ ment and the power utility then resulted in a near total lack of informatio
+ n concerning the levels of radiation in the\, yet unknown\, contaminated ar
+ eas. As a response\, concerned citizen have started to take upon themselves
+  this challenging task. However it quickly became clear that handheld measu
+ rements wouldn't scale up to the full magnitude of the area to cover. New m
+ eans of measuring radiation accurately\, quickly and cheaply were needed.
+SUMMARY:Safecast: DIY and citizen-sensing of radiation - Empowering citizen
+  in the wake of Fukushima triple-meltdown disaster
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5059.en.html
+DTSTART;TZID=Europe/Berlin:20121227T230000
+UID:5059@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Modern civilization unconditionally depends on information syst
+ ems. It is paradoxical but true that ICS/SCADA systems are the most insecur
+ e systems in the world. From network to application\, SCADA is full of conf
+ iguration issues and vulnerabilities.
+SUMMARY:SCADA Strangelove - or: How I Learned to Start Worrying and Love Nu
+ clear Plants
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5177.en.html
+DTSTART;TZID=Europe/Berlin:20121229T113000
+UID:5177@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:This talk will go into some of challenges\, solutions\, and sto
+ ries from securing a campaign for the 2012 US presidential election.
+SUMMARY:Securing the Campaign - Security and the 2012 US Presidential Elect
+ ion
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5225.en.html
+DTSTART;TZID=Europe/Berlin:20121229T203000
+UID:5225@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In this talk we will survey some 30 recent attacks on the Russi
+ an GOST block cipher.Background: GOST cipher is the official encryption sta
+ ndard of the Russian federation\, and also has special versions for the mos
+ t important Russian banks. Until 2012 there was no attack on GOST when it i
+ s used in encryption with random keys. I have developed more than 30 differ
+ ent academic attacks on GOST the fastest has complexity of 2^118 to recover
+  some but not all 256-bit keys generated at random\, which will be presente
+ d for the first time at CCC conference. It happens only once per decade tha
+ t a government standard is broken while it is still an official government 
+ standard (happened for DES and AES\, no other cases known). All these are b
+ roken only in academic sense\, for GOST most recent attacks are sliding int
+ o maybe arguably practical in 30 years from now instead of 200 years... Our
+  earlier results were instrumental at ISO for rejecting GOST as an internat
+ ional encryption standard last year. Not more than 5+ block cihers have eve
+ r achieved this level of ISO standardisation in 25 years and it NEVER happe
+ nded in history of ISO that a cipher got broken during the standardization 
+ process. Two main papers with 70+30 pages respectively which are http://epr
+ int.iacr.org/2011/626 and http://eprint.iacr.org/2012/138. Two other papers
+  have been already published in Cryptologia journal which specializes in se
+ rious military and government crypto. The talk will cover three main famili
+ es of attacks on GOST: high-level transformations\, low- level inversion/MI
+ TM/guess-then-software/algebraic attacks and advanced truncated differentia
+ l cryptanalysis of GOST.
+SUMMARY:Security Evaluation of Russian GOST Cipher - Survey of All Known At
+ tacks on Russian Government Encryption Standard
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5244.en.html
+DTSTART;TZID=Europe/Berlin:20121230T171500
+UID:5244@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Was hat sich im letzten Jahr im Bereich IT-Sicherheit getan? We
+ lche neuen Entwicklungen haben sich ergeben? Welche neuen Buzzwords und Tre
+ nds waren zu sehen?
+SUMMARY:Security Nightmares - Damit Sie auch morgen schlecht von Ihrem Comp
+ uter träumen.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5167.en.html
+DTSTART;TZID=Europe/Berlin:20121227T160000
+UID:5167@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In The Netherlands\, this year the community-driven mobile telc
+ o Limesco has started operations. We're providing voice\, SMS and data serv
+ ices to dozens of hackers in our country.One of the founders of Limesco wil
+ l give a lecture about mobile telephony in The Netherlands\, encompassing t
+ opics like what companies are involved in the system\, how tariffs are cons
+ tructed and the role of government regulations.
+SUMMARY:Setting mobile phones free - An overview of a mobile telephony mark
+ et and how a community-driven operator is born
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5164.en.html
+DTSTART;TZID=Europe/Berlin:20121228T160000
+UID:5164@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Der Betrieb von WLAN-Funk-Netzen und auch von offenen oder frei
+ en Netzen ist heute weit verbreitet und Teil der Diskussion um die "Culture
+ s of Sharing". Der Vortrag soll die Grundlagen der Haftung für offene Netze
+  und die Entwicklung der Rechtsprechung vom Landgericht Hamburg ("gestern")
+  zum BGH-Urteil "Sommer unseres Lebens" und den Einfluss aktueller Rechtspr
+ echung des Europäischen Gerichtshofs\, des Bundesgerichtshofs und der Insta
+ nzgerichte darstellen ("heute"). Ein Ausblick auf die Folgen dieser neuen\,
+  teilweise abweichenden Rechtsprechung und auf die Gesetzesinitiativen der 
+ SPD und der Linken ("morgen") soll den Vortrag abrunden.
+SUMMARY:Sharing Access – Risiken beim Betrieb offener (WLAN-)Netze - Stand 
+ gestern\, heute und morgen  
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5127.en.html
+DTSTART;TZID=Europe/Berlin:20121227T124500
+UID:5127@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Der Eid des Hippokrates\, der das Handeln von Ärzten ethisch le
+ iten soll\, ist zwischen 2.500 und 2.000 Jahre alt und tatsächlich wohl die
+  erste 'Datenschutz-Vorschrift' überhaupt. So heißt es: "Was ich bei der Be
+ handlung oder auch außerhalb meiner Praxis im Umgange  mit Menschen sehe un
+ d höre\, das man nicht weiterreden darf\, werde ich verschweigen und als Ge
+ heimnis bewahren." [1]
+SUMMARY:Siechtum und Sterben der ärztlichen Schweigepflicht
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5121.en.html
+DTSTART;TZID=Europe/Berlin:20121229T171500
+UID:5121@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Green-IT kennen wir inzwischen zur Genüge. Computer können aber
+  nicht nur nicht "green" sein\, sondern auch unfair und unsozial\, von der 
+ Rohstoffgewinnung bis zur Verschrottung. Unfair spart nämlich Geld. Der Ged
+ anke\, faire Produkte anzubieten und zu kaufen\, ist inzwischen weit verbre
+ itet\, allerdings eher bei Kaffee oder Kleidung. Ein Angebot an fairer IT f
+ ehlt. Die Industrie hat sich noch nicht auf den Weg gemacht\, faire Compute
+ r herzustellen. Wir Nutzer haben kaum die Wahl – verändern können wir aber 
+ durchaus etwas. Der Vortrag erklärt\, was und wie.
+SUMMARY:Sind faire Computer möglich?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5123.en.html
+DTSTART;TZID=Europe/Berlin:20121229T143000
+UID:5123@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:The lecture would address topics related to reverse engineering
+  for mobile platforms\, especially from the Android point of view. The main
+  aspects of the presentation is a new approach to reverse engineering side 
+ effects problem: some low footprint inspection techniques that grant analys
+ ts with the ability to access the program memory without altering its behav
+ ior. One technique is presented in particular - Android service injection -
+  and is demonstrated.
+SUMMARY:Small footprint inspection techniques for Android - Reverse enginee
+ ring on Android platforms
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5239.en.html
+DTSTART;TZID=Europe/Berlin:20121228T183000
+UID:5239@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:This talk will give an overview on the technology\, the laws an
+ d the technical guidelines of the smartMeter roll-out in Germany.
+SUMMARY:SmartMeter - A technological overview of the German roll-out 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5336.en.html
+DTSTART;TZID=Europe/Berlin:20121230T113000
+UID:5336@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Forderungen nach einer gerechten Sprache (also einer Sprache fr
+ ei von Rassismus\, Sexismus und anderen menschenfeindlichen Ideologien) sto
+ ßen häufig auf Unverständnis und Ablehnung. Unverständnis\, weil statt der 
+ sozialen Wirklichkeit die Sprache kritisiert wird\, mit der sie beschrieben
+  wird. Ablehnung\, weil Sprachkritik häufig als Sprechverbot empfunden wird
+ .
+SUMMARY:Sprache\, Ungleichheit und Unfreiheit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5378.en.html
+DTSTART;TZID=Europe/Berlin:20121229T124500
+UID:5378@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Stabilitätsanker & Wachstumslokomotive geben als politische Met
+ aphern ungewollt Auskunft über das Ausmaß der europäischen Wirtschafts- und
+  Finanzkrise. Wie kommt so ein Begriff in Verkehr? Wer gebraucht ihn? Zu we
+ lchem Zweck? Was fördert die Analyse der Metaphern zutage?
+SUMMARY:Stabilitätsanker & Wachstumslokomotive
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5230.en.html
+DTSTART;TZID=Europe/Berlin:20121228T230000
+UID:5230@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Stylometry uses linguistic information found in a document to p
+ erform authorship recognition. In this talk\, we will present how stylometr
+ y can be used to deanonymize users in multilingual underground forums. Our 
+ initial result shows that in spite of differences in languages and text len
+ gths\, regular stylometric methods perform well in identifying users in thi
+ s context. We will also present the improved version of Anonymouth\, a tool
+  to anonymize written document\, with user studies. 
+SUMMARY:Stylometry and Online Underground Markets
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5390.en.html
+DTSTART;TZID=Europe/Berlin:20121228T140000
+UID:5390@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Don't call us if your campaign does not work! And worse\, every
+ one's been harassed or arrested.
+SUMMARY:Tactical Tech - Bridging the Gap
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5195.en.html
+DTSTART;TZID=Europe/Berlin:20121230T160000
+UID:5195@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:The Executable and Linkable Format (ELF) is omnipresent\; relat
+ ed OS and library code is run whenever processes are set up and serviced (e
+ .g.\, dynamically linked). The loader is the stage manager for every execut
+ able. Hardly anyone appreciates the work that the ELF backstage crew (inclu
+ ding the linker and the loader) puts in to make an executable run smoothly.
+SUMMARY:The Care and Feeding of Weird Machines Found in Executable Metadata
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5206.en.html
+DTSTART;TZID=Europe/Berlin:20121227T214500
+UID:5206@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In the world of digital activism\, distributed denial of servic
+ e attacks present relatively low barriers to popular participation\, have a
+  high potential for attracting large numbers of first-time and repeat parti
+ cipants\, and can attract large amounts of media attention.  But though suc
+ h actions popular\, are they ethical? In this talk I will be presenting an 
+ ethical framework for the analysis of activist DDOS actions. The framework 
+ is grounded in a historical analysis of various activist DDOS actions\, suc
+ h as the IGC attacks in Spain in the late 90s\, Electronic Disturbance Thea
+ ter actions in the early 2000s\, and the Anonymous-led Operation Payback at
+ tacks in 2010.  Each historical case study presents a unique confluence of 
+ technological\, political\, legal and operational factors allowing for a fu
+ ll spectrum of ethical analysis.
+SUMMARY:The Ethics of Activist DDOS Actions - A Historical Analysis
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5256.en.html
+DTSTART;TZID=Europe/Berlin:20121229T230000
+UID:5256@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Have you ever been staring for nights at binary or hexadecimal 
+ data flows extracted from an USB channel? Don't you remember yourself searc
+ hing for some patterns and similarities in this fuc***g mess of zeros and o
+ nes grabbed from a binary configuration file? How long did it take you to f
+ ind an 16 bits decimal size field last time you reversed an IPC communicati
+ on protocol?Did you know you were not alone and that among them\, Rob Savoy
+ e (@ FOSDEM-08) and Drew Fisher (@ 28C3) have already reported the main dif
+ ficulties of the RE operations. Both of them called for the creation of a t
+ ool which would help experts in their work.
+SUMMARY:The future of protocol reversing and simulation applied on ZeroAcce
+ ss botnet - Mapping your enemy Botnet with Netzob
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5274.en.html
+DTSTART;TZID=Europe/Berlin:20121227T171500
+UID:5274@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:The current European data protection directive is from 1995\, w
+ hich was when the internet had not hit Brussels' decision-makers yet. Now\,
+  17 years later\, it is being completely re-writen. Will it meet the challe
+ nges of the age of big data? Will it have any effect on non-EU data hoarder
+ s? How will it deal with user-generated consent? What is this strange new "
+ right to be forgotten"? And what about privacy by design?
+SUMMARY:The Grand EU Data Protection Reform  - A latest battle report by so
+ me key actors from Brussels
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5306.en.html
+DTSTART;TZID=Europe/Berlin:20121228T171500
+UID:5306@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:At the very beginning\, Tor was just a socks proxy that protect
+ ed the origin and/or destination of your TCP flows. Now the broader Tor eco
+ system includes a diverse set of projects -- browser extensions to patch Fi
+ refox and Thunderbird's privacy issues\, Tor controller libraries to let yo
+ u interface with the Tor client in your favorite language\, network scanner
+ s to measure relay performance and look for misbehaving exit relays\, LiveC
+ Ds\, support for the way Android applications expect Tor to behave\, full-n
+ etwork simulators and testing frameworks\, plugins to make Tor's traffic lo
+ ok like Skype or other protocols\, and metrics and measurement tools to kee
+ p track of how well everything's working. Many of these tools aim to be use
+ ful beyond Tor: making them modular means they're reusable for other anonym
+ ity and security projects as well. In this talk\, Roger and Jake will walk 
+ you through all the tools that make up the Tor software world\, and give yo
+ u a better understanding of which ones need love and how you can help.
+SUMMARY:The Tor software ecosystem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5178.en.html
+DTSTART;TZID=Europe/Berlin:20121230T140000
+UID:5178@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Galaksija was to be in Yugoslavia what Commodore and Sinclair w
+ ere in the west. Whether it succeeded or not\, its deceptively simple desig
+ n can still teach us a lot of interesting tricks on how to make a usable co
+ mputer and operating system with as few transistors and bits as possible.
+SUMMARY:The ultimate Galaksija talk - Everything about a Yugoslavian microc
+ omputer halfway between a TRS-80 and a ZX 80
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 4
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5044.en.html
+DTSTART;TZID=Europe/Berlin:20121227T230000
+UID:5044@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In this year’s talk\, I tie on my 28c3 talk and present timing 
+ side channels from a defending viewpoint: How can one mitigate timing side 
+ channels? Aren’t random delays sufficient to prevent timing side channels i
+ n practice? What is the minimum size of random delays to be effective? Are 
+ there other delay strategies besides random delays that are more effective 
+ and efficient?
+SUMMARY:Time is NOT on your Side - Mitigating Timing Side Channels on the W
+ eb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5380.en.html
+DTSTART;TZID=Europe/Berlin:20121228T140000
+UID:5380@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Wir wissen seit ein paar Jahren\, dass der Staat technisch in d
+ er Lage ist\, die Computer einiger seiner Bürger zu infiltrieren. Aber soll
+  er das auch dürfen? Was hat sich in den letzten Monaten beim Staatstrojane
+ r getan?
+SUMMARY:Trojaner-Blindflug - Spionage-Software von Staats wegen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5091.en.html
+DTSTART;TZID=Europe/Berlin:20121228T124500
+UID:5091@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Hardware-basierte Festplattenvollverschlüsselungen in Form soge
+ nannter SEDs (Self-Encrypting Drives) werden gemeinhin als sichere und perf
+ ormante Alternative zu Software-basierter Verschlüsselung wie BitLocker und
+  TrueCrypt gesehen. Während der Performance-Gewinn und die Benutzerfreundli
+ chkeit von SEDs\, bspw. Intel's SSD 320 bzw. SSD 520\, außer Frage stehen\,
+  ist der Sicherheits-Gewinn deutlich geringer als bisher angenommen. Teilwe
+ ise sind Systeme die auf SEDs basieren gar schwächer als vergleichbare Syst
+ eme die auf Software-Verschlüsselung basieren.
+SUMMARY:(Un)Sicherheit Hardware-basierter Festplattenverschlüsselung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5396.en.html
+DTSTART;TZID=Europe/Berlin:20121228T160000
+UID:5396@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Weltbilder der Informatik sind in mancher Hinsicht denen in der
+  Hacker- und Hackerinnen-Community nicht unähnlich.
+SUMMARY:Was ist\, was kann\, was soll Gender Studies Informatik?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5160.en.html
+DTSTART;TZID=Europe/Berlin:20121228T113000
+UID:5160@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:In the Free City of Hamburg\, which is one of 16 German states\
+ , a coalition of hackers\, activists and other players of civil society hav
+ e drafted the most revolutionary Freedom of information law in the world. T
+ he law obliges the state to proactively publish all important public inform
+ ation (such as contracts\, studies\, construction permits) in an OpenData f
+ ormat on the Internet. After the start of a referendum campaign\, the law w
+ as passed unanimously by the state parliament in June 2012 to avoid a publi
+ c vote on it.
+SUMMARY:We are all lawmakers! - How to further transparency by law – the Ha
+ mburg example and beyond
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5208.en.html
+DTSTART;TZID=Europe/Berlin:20121227T160000
+UID:5208@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Accessibility of digital content is a hugely misunderstood issu
+ e. Programmers and content developers tend to view it as a distraction or a
+  special interest concern. Accessibility advocates fail to describe it in t
+ erms that would put it in the proper place for other technologists\, in par
+ ticular security practitioners.                                            
+                                 We argue that if a format or a document has
+  systemic accessibility problems\, then accessibility is likely to be the l
+ east of its problems\; that accessibility only collapses first\, like a can
+ ary in a mine\, and security is next to follow. We argue that many accessib
+ ility problems\, just like many security problems\, stem from documents bei
+ ng hard to parse or containing executable content\, and that the accessibil
+ ity community is only the first to suffer\, due to not having the manpower 
+ to make extremely complicated formats to almost work almost always. It's an
+  arms race tougher than the security patching cycle\, made worse by there b
+ eing no common model for what accessibility properties should look like.
+SUMMARY:What accessibility has to do with security
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 6
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5283.en.html
+DTSTART;TZID=Europe/Berlin:20121227T203000
+UID:5283@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Nach dem Scheitern der diversen politischen und gesetzgeberisch
+ en Initiativen zur Sperrung und Filterung von Inhalten in Deutschland und d
+ er EU haben verschiedene politische Akteuere Initiativen gestartet dieselbe
+ n Mechanismen auf Basis eine "Selbstregulation" mit Service-Providern auszu
+ handeln und umzusetzen.Diese Verhandlungen zwischen den Regierungen (oder r
+ egierungsähnlichen Organisationen) und Industrie-Partnern passieren nicht n
+ ur in Hinterzimmern. Nicht weniger dieser Projekte sind überraschend transp
+ arent darüber\, was sie zu tun gedenken\, und wie sie dorthin gelangen woll
+ en.
+SUMMARY:White IT\, Clean IT & CEO Coalition - Wie die Exekutive versucht Pr
+ ovider zur Inhaltekontrolle im Internet einzuspannen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5327.en.html
+DTSTART;TZID=Europe/Berlin:20121229T171500
+UID:5327@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:This action-packed lecture presents the inner workings of the a
+ uthor's from-scratch implementation of a USB Mass Storage disk in user-land
+  Python\, along with some embarrassing bugs in operating systems that suppo
+ rt such disks.  The lecture concludes with an introduction to Active Antifo
+ rensics\, in which a thumbdrive's own firmware can recognize and defend its
+ elf against disk imaging and other forensic tools.
+SUMMARY:Writing a Thumbdrive from Scratch - Prototyping Active Disk Antifor
+ ensics
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Saal 1
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5262.en.html
+DTSTART;TZID=Europe/Berlin:20121227T140000
+UID:5262@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Seit anderthalb Jahren begleitet FragDenStaat.de die deutsche I
+ nformationsfreiheit in der Praxis und dokumentiert die Korrespondenz zwisch
+ en Anfragestellenden und Behörden. Welche Informationen gibt der Staat prei
+ s\, und gegen welche Veröffentlichungen kämpft er sogar bis vor Gericht? Di
+ e interessantesten Fälle werden genauer beleuchtet und eine Bewertung zur L
+ age der staatlichen Information in Deutschland abgegeben.
+SUMMARY:Zur Lage der Information - 1.5 Jahre FragDenStaat.de
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H30M
+LOCATION:Saal 17
+SEQUENCE:0
+URL:http://events.ccc.de/congress/2012/Fahrplan/events/5414.en.html
+DTSTART;TZID=Europe/Berlin:20121227T150000
+UID:5414@29C3@pentabarf.org
+DTSTAMP:20130105T024522
+CATEGORIES:Lecture
+DESCRIPTION:Publikum willkommen.
+SUMMARY:Zur Lage der Informationsfreiheit - Stefan Wehrmeyer von »Frag' den
+  Staat« im Interview
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
