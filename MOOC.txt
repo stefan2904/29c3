@@ -1,0 +1,262 @@
+Millions of Lessons Learned on Electronic Napkins 
+On the way to free(ing) education
+--
+
+== Allgemein:
+
+1:1 Lehre
+
+Früher: Auf Servietten (Schmeh?)
+Heute: Internet
+
+Massive Open Online Courses
+
+* cMOOC: social science - älter
+* xMOOC: neuer - hier betrachtet
+
+Einige "high profile" Online Kurse
+Stanford etc
+edX, ursprünglich MIT
+Durchbruch 2012, alles in einem Jahr passiert
+Scheinbar viel Nachfrage
+
+== Finanzieller Aspekt
+
+1 Jahr studieren & leben in US: 20.000 US$
+1 Jahr studieren & leben auf Harvard: 60.000 US$
+1 Jahr studieren & leben in DE: 10.000 EUR (eigentlich nur leben)
++ Zeit
+
+Worin wird bei Unis investiert?
+
+Man stellt teure, hochqualllifizierte Leute an, um VOs zu machen
+Die könnten eigentlich auch was anderes machen (Forschung, etc)
+
+Uni immer noch zu empfehlen (-> guter Job, heute aber eh nicht mehr so)
+-> Persönlichkeitsbildung
+
+Gesellschaft: Uni zeuer
+Jedes Jahr die selbe VO halten
+* hier gibt es Bedarf und Interesse an MOOCs
+
+== Erwartungen an (Traditionelle) Unis
+
+Unis sind 800 Jahre alt, 
+moderne Unis sind 200 Jahre alt (Humbold war erste)
+
+Was erwartet die Gesellschaft von Unis?
+* Modell: Zertifikat 
+** -> Job 
+** -> mehr Wissen 
+** -> mehr Zertifikate
+
+* Benötigt: 
+** Gute Sklills, 
+** auch anwendbar, 
+** viele Skills, 
+** (Persönlichkeits-)Bildung
+
+MOOCs to the rescue?
+
+== Pro:
+
+1:1 (face-to-face) unterrichteten Studenten schneiden um 98% (!) besser ab, als Studenten, die eine Vorlesung besucht haben.
+
+Jeder kann vom BESTEN Prof lernen - gratis
+
+Studenten haben quasi eine 1:1 "Betreuung"
+* "mechanische" Betreuung
+* zurückspulen bei Videos
+* Quizes
+* Forum
+* Tests
+* Praktische Beispiele (Prog, Rechnungen, Multiple-Choice)
+
+Weniger Bürokratie!!
+
+Data-driven Science
+* Direkt Feedback während dem Absolvieren des Kurses
+* Welche stelle im Video wiederholt wird
+* Wo Studierendenzahl stark sinkt
+* Videos können während Kurs überarbeitet werden
+
+Inverted Classroom:
+* Jeder schaut daheim Videos - lernt! übt!
+* Dann gibts im "real life" Tutoring Sessions
+** Eventuell besseres 
+* "Tech can humanize your classroom"
+
+== Contra:
+
+3% der angemeldeten Studierenden am Natural Language Processing Kurs von Stanford schließen diesen auch ab -> wenig.
+* wäre auf Uni eine Katastrophe
+
+alle sind viel zu optimistisch
+
+Fernstudium:
+man braucht die "richtigen" Studierenden
+
+Qualität ist im Durchschnitt nicht hoch
+Schwache Didaktik
+Keine Evaluierung (außer Journalisten und andere Profs)
+Technische Möglichkeiten bleiben großteils ungenutzt
+* Video-Konferenz (->Hangout bei Digital Democracy?)
+* Virtual Reality
+* Interactive Experiments
+
+Derzeit:
+* Videos + Quizes
+* also sehr statisch
+
+"Wenn du nicht zahlst, bist du nicht der Kunde, sondern das Produkt"
+-> wer zahlt? 
+
+"Open" -> Open for everybody -> niemand muss zahlen! wer zahlt?
+
+Zuviel Wirtschaftliche Interessen -> Daten!?
+
+No human element
+
+Zertifikate: Plagiate & Schummeln - massives Problem
+* andere Größenordnung
+* eigene Firmen, die Tests für dich machen
+
+== Lessons learned:
+
+courseria, edx & udacity haben in Summe 2.500.000 User
+Kurs der Vortragenden hatte "ein paar Tausend" TeilnehmerInnen (klein)
+
+es gibt eine Begierde/Sehnsucht zu lernen
+
+Beispiele der Vortragenden: 
+* Differenzgleichungen 
+* Theoretische Informatik
+--> beeindruckend viel Diskussion in den Foren
+--> Studierende wollen mehr als nur das aus dem Kurs
+
+Freedom:
+* neue Sachen ausprobieren
+** man kann selbst entscheiden welche Themen man macht
+** zB ohne Turing Maschine im Info Kurs
+** zB ohne Integrieren im Differenzialgleichungskurs
+** --> mit welchen Folgen?
+* Spass haben beim lernen und beim lehren
+* Man kann der Lehrende sein, der man immer sein wollte
+* Man kann mal einen Kurs machen, und dann wieder aufhören Lehrender zu sein
+
+Interaktivität (derzeit sehr aufbaufähig):
+* (Intelligente) Quizes
+** Gelerntes wieder in den Kopf rufen
+** Gelerntes hinterfragen
+* Forum-Diskussionen wichtiger als Videos
+
+* Daten sammeln um Kurs zu verbessern
+** auch während dem Kurs
+** unbezahlbare/unschätzbare Daten gesammelt ;-)
+
+Qualität wichtig
+Eher Qualität der didaktik als Qualität der Folien
+Auswahl des Contents wichtig
+Wichtig ist, dass man was lernt, nicht ein Zeugnis
+Lehrender kann keinen Druck über Noten aufbauen
+Hier: 8 Stunden Kurs + ewig viel HÜ
+Lehrende haben viel Aufwand
+* Aufnehmen
+* Error checked
+* Prüfungen coden 
+* Benotungs-Scripte schreiben
+* Forum lesen & antworten
+* Videos überarbeiten
+* 5stellige Kosten/Aufwand?
+
+=== Zur Kritik:
+Viel der Kritik auch auf traditionelle Uni anwendbar
+* zB konsistente Qualität
+Unfaire Vergleiche (zB mit Harward)
+* Sie denken, solange die Kurse gratis sind, ist das egal
+* Es geht ums lernen
+
+=== Zukunft:
+
+Qualität (die durchschnittliche)
+Wer zahlt für die Qualität?
+* Idealismus vs. Geld verdienen
+* Arbeitnehmer vermitteln ist Business Modell
+Zertifikate und Credits?
+* Prüfung
+* Plagiate
+
+=== Modelle:
+
+Für Arbeitgeber:
+* spezifische Skills von einem Arbeitgeber
+* Arbeitgeber würde für Kurs zahlen 
+* und besten Kandidaten aufnehmen
+
+Uni:
+* Effizienz
+* Kostenreduzierung durch Videos
+* Qualität?
+
+Wiki:
+* Die Vorlesungen selbst im Wiki-style gemeinsam erstellen
+
+== Free(ing) education?
+
+courseria, edx & udacity Finanzierung: 100.000.000 US$
+
+Heutzutage ist es zwar immer noch schwer, (guten!) Content zu produzieren, aber es ist um vielfaches einfacher geworden, Content zu verbreiten (Internet!).
+
+Alte Gewohnheiten + Inhalte loswerden ist einfacher
+
+Herausforderung für traditionelle Unis
+* MOOCs zeigen, dass sie tausende Leute gratis unterichten können, was haben dem die Unis entgegenzusetzen? Qualität?
+
+Crowdsourcing?
+* bisher nicht viel Erfolg
+* keine kritische Masse
+* am ehesten bei Übersetzungen
+
+Wer zahlt?
+* Abhängig von Ziel
+* Firma?
+* Idealismus? Wir alle/Gesellschaft?
+
+"Bücher werden in Schulen bald überflüssig sein. (...) Es ist möglich, das gesamte Wissen der Menschheit mit Filmen zu lehren. Unser Schulsystem wird sich in den nächsten 10 Jahren komplett verändern." - Thomas Edison, 1913
+
+"Bücher werden in unseren Schulen bald überflüssig sein, denn man kann jede Art von menschlichem Wissen mit der neuen Technik lehren." - Thomas Alva Edison 1913 über den Film
+
+== Sonst so:
+
+Keine Referenzen in dem Vortrag!! :(
+
+Gesponserte Kurse -> verwirtschaftlichung von Bildung?
+Für Zertifikate zahlen?
+
+"MOOCs don't really compete with﻿ universities, but they provide great value that hasn't been provided before." - Professor Terwiesch
+
+IMHO: "sozialer Faktor" von Unis sehr wichtig
+
+IMHO: "real life" Uni nicht ersetzbar (Übungen, Tutoring, ...)
+
+== Die Vortragenden:
+
+Jörn Loviscach
+* http://events.ccc.de/congress/2012/Fahrplan/speakers/3891.en.html
+
+Sebastian Wernicke
+* http://events.ccc.de/congress/2012/Fahrplan/speakers/3998.en.html
+
+== Links:
+
+http://events.ccc.de/congress/2012/Fahrplan/events/5280.en.html
+http://www.youtube.com/watch?v=3_OTCrncgi0
+
+http://courseria.org/
+http://www.udacity.com/
+https://www.khanacademy.org/
+https://www.edx.org/
+
+http://curry.tugraz.at/
+http://itunes.tugraz.at/
+
