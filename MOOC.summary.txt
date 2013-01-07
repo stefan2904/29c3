@@ -16,7 +16,7 @@ Die Plattformen Coursera, edX und Udacity haben alleine 2012 eine Finanzierung v
 
 Ein Aspekt, der für Massen-Kurse über das Web spricht, ist der finanzielle.
  
-Auf Seiten der Studierenden an einer öffentlichen Universität kostet ein durchschnittliches Studien-Jahr in Amerika zirka 20.000 US-Dollar. Studiert man in Harvard, sind es 60.000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10.000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
+Auf Seiten der Studierenden an einer öffentlichen Universität kostet ein durchschnittliches Studien-Jahr in Amerika zirka 20,000 US-Dollar. Studiert man in Harvard, sind es 60,000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10,000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
 
 Seitens der Unis wurde die Frage in den Raum gestellt, ob es notwendig ist, hochqualifiziertes (und damit teures) Personal anzustellen, um dann jedes Jahr den quasi selben Stoff zu predigen. Kann die Zeit dieser Personen nicht sinnvoller genutzt werden, wurde weiters gefragt. Zum Beispiel im Bereich der Forschung. 
 Da diese Kosten vor allem gegenüber der Gesellschaft immer schwieriger zu argumentieren sind, gäbe es hier großes Interesse an Systemen wie den MOOCs.
