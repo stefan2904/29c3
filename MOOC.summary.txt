@@ -2,9 +2,9 @@
 === Am Weg zu freier(er) Bildung? ===
 
 
-In Saal 6 ging es am Nachmittag des dritten Kongress-Tages um einen neuen Trend in Sachen eEducation: Massive Open Online Courses, kurz MOOC. 
+In Saal 6 ging es am Vormittag des vierten Kongress-Tages um einen neuen Trend in Sachen eEducation: Massive Open Online Courses, kurz MOOC. 
 
-Während es bis dato in klassischen frontal-Vorlesungen schwer bis nicht möglich ist, auf individuelle Lernmethoden verschiedenster Studierender einzugehen, eröffnen Medien wie das Web hier neue Möglichkeiten. MOOCs bedeutet aber nicht, dass eine Universität ihre (im Hörsaal abgehaltenen Vorlesungen) filmt und online stellt, wie es ja auch die TU Graz tut. 
+Während es bis dato in klassischen Frontal-Vorlesungen schwer bis nicht möglich ist, auf individuelle Lernmethoden verschiedenster Studierender einzugehen, eröffnen Medien wie das Web neue Möglichkeiten. MOOCs bedeutet aber nicht, dass eine Universität ihre (im Hörsaal abgehaltenen Vorlesungen) filmt und online stellt, wie es ja auch die TU Graz tut. 
 
 Vielmehr geht es dabei um eigens für das Web produzierte und komplett im Web abgehaltene Kurse, an denen jedeR unabhängig von einem laufenden Studium teilnehmen kann. Diese Kurse bestehen neben vielen meist kurzen Video-Lektionen aus Quizzes und meist einem eigenen Forum. Über einen oder mehrere Tests kann am Ende ein Zertifikat erworben werden. 
 
@@ -16,14 +16,14 @@ Die Plattformen Coursera, edX und Udacity haben alleine 2012 eine Finanzierung v
 
 Ein Aspekt, der für Massen-Kurse über das Web spricht, ist der finanzielle.
  
-Auf Seiten der Studierenden kostet ein durchschnittliches Studien-Jahr in Amerika beispielsweise zirka 20.000 US-Dollar. Studiert man in Harvard, sind es 60.000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10.000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
+Auf Seiten der Studierenden an einer öffentlichen Universität kostet ein durchschnittliches Studien-Jahr in Amerika zirka 20,000 US-Dollar. Studiert man in Harvard, sind es 60,000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10,000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
 
-Seitens der Unis wurde die Frage in den Raum gestellt, ob es notwendig ist, hochqualifiziertes (und damit teures) Personal anzustellen, um dann jedes Jahr den quasi selben Stoff zu predigen. Können diese Personen diese Zeit nicht sinnvoller nutzen, zum Beispiel mit Forschung, wurde weiter gefragt. 
+Seitens der Unis wurde die Frage in den Raum gestellt, ob es notwendig ist, hochqualifiziertes (und damit teures) Personal anzustellen, um dann jedes Jahr den quasi selben Stoff zu predigen. Kann die Zeit dieser Personen nicht sinnvoller genutzt werden, wurde weiters gefragt. Zum Beispiel im Bereich der Forschung. 
 Da diese Kosten vor allem gegenüber der Gesellschaft immer schwieriger zu argumentieren sind, gäbe es hier großes Interesse an Systemen wie den MOOCs.
 
 ==  Erwartungen == 
 
-Traditionelle Universitäten sind mehr als 800 Jahre alt. Modernere Unis, welche Forschung und Lehre unter einem Dach verbinden, entstanden immerhin vor über 200 Jahren. Nicht zuletzt deswegen sei es an der Zeit darüber nachzudenken, ob die Unis die Erwartungen der sich stark verändernden Gesellschaft noch erfüllen können. Und wie man diese Erwartungen erfüllen kann. Mit MOOCs?
+Traditionelle Universitäten sind mehr als 800 Jahre alt. Modernere Unis, welche Forschung und Lehre unter einem Dach verbinden, entstanden immerhin vor über 200 Jahren. Nicht zuletzt deswegen sei es an der Zeit darüber nachzudenken, ob die Unis die Erwartungen der sich stark verändernden Gesellschaft noch erfüllen können. Und wenn nicht, wie man dies erreichen kann. Mit MOOCs?
 
 ==  Der generische Optimist == 
 
@@ -35,7 +35,7 @@ Das Web ermöglicht eine "mechanische Betreuung", was dem oben erwähnten face-t
 
 Ein weiterer Grund für MOOCs in der heutigen Form ist laut den Vortragenden ein enormer Bürokratie-Abbau, da der gesamte, über die Jahre gewachsene, Universitäts-Apparat wegfällt. 
 
-Enorm begeistert waren die Vortragenden von den während der Abhaltung gewonnenen Daten. Beispielsweise war es ihnen dank diverser Statistiken schnell möglich, Feedback zu den Vorlesungen zu erhalten und Fehler so wie(didaktische) Fehlergriffe noch während des laufenden Kurses auszubessern. Anzeichen hierfür sind zum Beispiel eine stark sinkende TeilnehmerInnen-Zahl oder eine oft wiederholte Stelle in den Videos.
+Enorm begeistert waren die Vortragenden von den Feldversuchen in ihren eigenen Lehrveranstaltungen gewonnenen Daten. Beispielsweise war es ihnen dank diverser Statistiken schnell möglich, Feedback zu den Vorlesungen zu erhalten und Fehler sowie (didaktische) Fehlgriffe noch während des laufenden Kurses auszubessern. Anzeichen hierfür sind zum Beispiel eine stark sinkende TeilnehmerInnen-Zahl oder eine oft wiederholte Stelle in den Videos.
 
 == Der generische Pessimist == 
 
@@ -43,7 +43,7 @@ Als Argumente gegen Massive Open Online Courses führen die Vortragenden neben e
 
 Die individuellen Lernmethoden der Studierenden sind neben einem Pro gleichzeitig auch eines der Contra-Punkte. Wie sich schon bei klassischen Fernstudien gezeigt hat, ist "remote learning" nicht jedermanns Sache.
 
-Außerdem wurde die im durchschnitt recht niedrige Qualität und die schwache Didaktik mancher Vortragender kritisiert. Dies sei aber auf traditionellen Unis oft auch nicht anders. (Da es sich nicht um offizielle Uni-Kurse handelt, erfolgt keine offizielle Evaluierung, außer durch Journalisten.)
+Außerdem wurde die im Durchschnitt recht niedrige Qualität und die schwache Didaktik mancher Vortragender kritisiert. Dies sei aber auf traditionellen Unis oft auch nicht anders. (Da es sich nicht um offizielle Uni-Kurse handelt, erfolgt keine offizielle Evaluierung, außer durch Journalisten.)
 
 Ebenfalls erwähnt wurde die Tatsache, dass die von neuen Medien gebotenen Möglichkeiten noch bei weitem nicht ausgenutzt werden. Beispielsweise wünscht man sich virtuelle Realität, interaktive Experimente und Video-Konferenzen. (Zumindest letzteres kommt bei manchen Kursen aber mittlerweile zum Einsatz; Google Hangout hat sich hier als eines der Mittel der Wahl erwiesen.)
 
@@ -58,9 +58,9 @@ Die Vortragenden ließen es sich nicht nehmen, mehrmals darauf hinzuweisen, dass
 
 ==  Lessons learned == 
 
-Abschließend berichteten die Vortragenden noch von ihren Erfahrungen als Lehrende in MOOCs. Beispielsweise wussten beide die großen Freiheiten für Lehrende zu schätzen, neues auszuprobieren oder altes anders zu machen. 
+Abschließend berichteten die Vortragenden noch von ihren Erfahrungen als Lehrende in MOOCs. Beispielsweise wussten beide die großen Freiheiten für Lehrende zu schätzen, Neues auszuprobieren oder Altes anders zu machen. 
 
-Ein weiterer interessanter Aspekt war, dass die Videos nicht der wichtigste Teil eines online Kurses sind, sondern die Foren-Diskussionen. Hier kommt es wieder zu einem ähnlichen Effekt wie bei face-to-face Unterricht.
+Ein weiterer interessanter Aspekt war, dass die Videos nicht der wichtigste Teil eines online Kurses sind, sondern die Foren-Diskussionen im Fokus stehen. Hier kommt es wieder zu einem ähnlichen Effekt wie bei face-to-face Unterricht.
 
 Ebenso waren die Vortragenden von der "Begierde & Sehnsucht zu lernen" begeistert, auf welche sie den großen Zulauf zurückführen.  
 
