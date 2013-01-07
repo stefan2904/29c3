@@ -1,22 +1,23 @@
+__NOTOC__
 = Millions of Lessons Learned on Electronic Napkins  =
 === Am Weg zu freier(er) Bildung? ===
 
 
-In Saal 6 ging es am Vormittag des vierten Kongress-Tages um einen neuen Trend in Sachen eEducation: Massive Open Online Courses, kurz MOOC. 
+In Saal 6 ging es am Vormittag des vierten Kongress-Tages um einen neuen Trend in Sachen eEducation: [http://en.wikipedia.org/wiki/Massive_open_online_course Massive Open Online Courses], kurz MOOC. 
 
 Während es bis dato in klassischen Frontal-Vorlesungen schwer bis nicht möglich ist, auf individuelle Lernmethoden verschiedenster Studierender einzugehen, eröffnen Medien wie das Web neue Möglichkeiten. MOOCs bedeutet aber nicht, dass eine Universität ihre (im Hörsaal abgehaltenen Vorlesungen) filmt und online stellt, wie es ja auch die TU Graz tut. 
 
 Vielmehr geht es dabei um eigens für das Web produzierte und komplett im Web abgehaltene Kurse, an denen jedeR unabhängig von einem laufenden Studium teilnehmen kann. Diese Kurse bestehen neben vielen meist kurzen Video-Lektionen aus Quizzes und meist einem eigenen Forum. Über einen oder mehrere Tests kann am Ende ein Zertifikat erworben werden. 
 
-Die Stanford Universität und das MIT (edX) haben bereits 2011 mit Experimenten in diese Richtung begonnen und eigene Plattformen gegründet. 2012 haben MOOCs einen regelrechten Boom widerfahren, was sich unter anderem in weiteren Plattform-Gründungen, einigen großen Investitionen und einer stark steigenden Anzahl an KursteilnehmerInnen widerspiegelt.
+Die [http://trendreport.betterplace-lab.org/case/coursera Stanford Universität] und das MIT (edX) haben bereits 2011 mit Experimenten in diese Richtung begonnen und eigene Plattformen gegründet. 2012 haben MOOCs einen regelrechten Boom widerfahren, was sich unter anderem in weiteren Plattform-Gründungen, einigen großen Investitionen und einer stark steigenden Anzahl an KursteilnehmerInnen widerspiegelt.
 
-Die Plattformen Coursera, edX und Udacity haben alleine 2012 eine Finanzierung von 100 Millionen US-Dollar erhalten. Sie verfügen zusammen über 2,5 Millionen registrierte User.
+Die Plattformen Coursera, edX und Udacity haben alleine 2012 eine Finanzierung von 100 Millionen US-Dollar erhalten. Sie verfügen zusammen über 2,5 Millionen registrierte User. 
 
 == Money, Money, Money == 
 
 Ein Aspekt, der für Massen-Kurse über das Web spricht, ist der finanzielle.
  
-Auf Seiten der Studierenden an einer öffentlichen Universität kostet ein durchschnittliches Studien-Jahr in Amerika zirka 20,000 US-Dollar. Studiert man in Harvard, sind es 60,000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10,000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
+Auf Seiten der Studierenden an einer öffentlichen Universität kostet ein durchschnittliches Studien-Jahr in Amerika zirka 20 000 US-Dollar. Studiert man in Harvard, sind es 60 000 US-Dollar. In Deutschland im Schnitt immerhin noch zirka 10 000 Euro. Diese Kosten setzen sich neben den Lebenskosten vor allem aus diversen Studiengebühren zusammen. 
 
 Seitens der Unis wurde die Frage in den Raum gestellt, ob es notwendig ist, hochqualifiziertes (und damit teures) Personal anzustellen, um dann jedes Jahr den quasi selben Stoff zu predigen. Kann die Zeit dieser Personen nicht sinnvoller genutzt werden, wurde weiters gefragt. Zum Beispiel im Bereich der Forschung. 
 Da diese Kosten vor allem gegenüber der Gesellschaft immer schwieriger zu argumentieren sind, gäbe es hier großes Interesse an Systemen wie den MOOCs.
@@ -45,11 +46,11 @@ Die individuellen Lernmethoden der Studierenden sind neben einem Pro gleichzeiti
 
 Außerdem wurde die im Durchschnitt recht niedrige Qualität und die schwache Didaktik mancher Vortragender kritisiert. Dies sei aber auf traditionellen Unis oft auch nicht anders. (Da es sich nicht um offizielle Uni-Kurse handelt, erfolgt keine offizielle Evaluierung, außer durch Journalisten.)
 
-Ebenfalls erwähnt wurde die Tatsache, dass die von neuen Medien gebotenen Möglichkeiten noch bei weitem nicht ausgenutzt werden. Beispielsweise wünscht man sich virtuelle Realität, interaktive Experimente und Video-Konferenzen. (Zumindest letzteres kommt bei manchen Kursen aber mittlerweile zum Einsatz; Google Hangout hat sich hier als eines der Mittel der Wahl erwiesen.)
+Ebenfalls erwähnt wurde die Tatsache, dass die von neuen Medien gebotenen Möglichkeiten noch bei weitem nicht ausgenutzt werden. Beispielsweise wünscht man sich virtuelle Realität, interaktive Experimente und Video-Konferenzen. (Zumindest letzteres kommt bei manchen Kursen aber mittlerweile zum Einsatz; [https://class.coursera.org/thinkagain-2012-001/wiki/view?page=GoogleHangoutsGallery Google Hangout] hat sich hier als eines der Mittel der Wahl erwiesen.)
 
 Schummeln und Plagiate sind bei MOOCs ein noch viel größeres Problem als im Uni-Alltag, spielen jedoch derzeit eine untergeordnete Rolle, da sich Zertifikate ja nicht in ECTS oder ähnliches umwandeln lassen.
 
-Eine weitere Fragen, die sich bei gratis Kursen stellt, ist natürlich die Finanzierung. Derzeit leben die Anbieter allesamt von universitären Finanzierungen und Risiko-Kapital. 
+Eine weitere Fragen, die sich bei gratis Kursen stellt, ist natürlich [http://www.insidehighered.com/news/2012/06/11/experts-speculate-possible-business-models-mooc-providers die Finanzierung]. Derzeit leben die Anbieter allesamt von universitären Finanzierungen und Risiko-Kapital. 
 Eine mögliche Finanzierung durch die Wirtschaft wird kritisch gesehen, da sich hier Interessen schwer ausschließen lassen und man das nicht immer will. (Beispielsweise besteht dass Risiko, dass ein von Cisco gesponserter Netzwerk-Kurs zu einem Cisco-Kurs wird.)
 
 ==  Zur Kritik == 
@@ -66,9 +67,9 @@ Ebenso waren die Vortragenden von der "Begierde & Sehnsucht zu lernen" begeister
 
 == Die Vortragenden == 
 
-* [http://events.ccc.de/congress/2012/Fahrplan/speakers/3891.en.html Jörn Loviscach]
+* [http://events.ccc.de/congress/2012/Fahrplan/speakers/3891.en.html Jörn Loviscach] ist Professor für Ingenieurmathematik und technische Informatik an der Fachhochschule Bielefeld. Er nutzt für seine Vorlesungen [http://de.wikipedia.org/wiki/Umgedrehter_Unterricht inverted teaching].
 
-* [http://events.ccc.de/congress/2012/Fahrplan/speakers/3998.en.html Sebastian Wernicke]
+* [http://events.ccc.de/congress/2012/Fahrplan/speakers/3998.en.html Sebastian Wernicke] hat Bioinformatik auf der Friedrich-Schiller-Universität Jena studiert und leitet die Geschäftsfeldentwicklung bei Seven Bridges Genomics. Er ist außerdem Speaker [http://www.ted.com/speakers/sebastian_wernicke.html mehrerer TED-Talks].
 
 ==  Links == 
 
@@ -81,8 +82,9 @@ Ebenso waren die Vortragenden von der "Begierde & Sehnsucht zu lernen" begeister
 ** [http://www.udacity.com/ Udacity]
 ** [https://www.khanacademy.org/ Khan Academy]
 ** [https://www.edx.org/ edX]
+** [http://change.mooc.ca/ Change 2011]
 
-<!--
-* [http://curry.tugraz.at/ TU-Graz VO-Streaming]
-* [http://itunes.tugraz.at/ TU-Graz VO-Aufzeichnungen]
--->
+* '''Sonstiges:'''
+** [http://www.worldofwebcast.com/post/massive-list-of-mooc-resources-lit-and-literati Web-Ressourcen zum Thema]
+** [http://curry.tugraz.at/ TU-Graz VO-Streaming]
+** [http://itunes.tugraz.at/ TU-Graz VO-Aufzeichnungen]
